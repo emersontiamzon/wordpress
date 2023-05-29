@@ -1,0 +1,14 @@
+.widget_tag_cloud a {
+	display: inline-block;
+	padding: 3px 8px;
+	margin: 0 3px 8px 0;
+	background-color: #fafafa;
+	font-size: 0.9em !important;
+	border-radius: 30px;
+}
+
+.widget_tag_cloud a:hover,
+.widget_tag_cloud a:focus {
+    text-decoration: none;
+    opacity: 0.7;
+}

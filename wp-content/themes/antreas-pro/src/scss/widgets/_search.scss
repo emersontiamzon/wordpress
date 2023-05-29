@@ -1,0 +1,14 @@
+.widget_search label {
+    display: none;
+}
+
+.widget_search input[type=text] {
+	width: calc( 100% - 90px );
+	max-width: 400px;
+	float: left;
+}
+
+.widget_search input[type=submit] {
+	float: left;
+	margin: 0 0 0 10px;
+}

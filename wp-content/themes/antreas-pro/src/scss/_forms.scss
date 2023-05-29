@@ -1,0 +1,67 @@
+fieldset {
+    margin: 0 0 30px;
+}
+
+legend {
+    font-size: 1.3em;
+    display: block;
+    margin: 0 0 20px;
+}
+
+label {
+    padding: 0;
+    margin: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+input, textarea {
+    font-size: 1em;
+}
+
+input[type=text], input[type=password], input[type=input],
+input[type=tel], input[type=url], input[type=email],
+input[type=number], input[type=range], input[type=search], input[type=color],
+input[type=time], input[type=week], input[type=month], input[type=date], input[type=datetime],
+textarea, select {
+    font-family: inherit;
+    border: 1px solid transparent;
+    padding: 8px 6px;
+    margin: 0;
+    width: 100%;
+    background: #ececec;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+	-webkit-appearance: none;	
+ 	box-shadow: 0 1px 2px rgba(0,0,0,.08) inset;
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.08) inset;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.08) inset;
+	-moz-transition: 0.3s all;
+    -webkit-transition: 0.3s all;
+    transition: 0.3s all;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=input]:focus,
+input[type=tel]:focus, input[type=url]:focus, input[type=email]:focus,
+input[type=number]:focus, input[type=range]:focus, input[type=search]:focus, input[type=color]:focus,
+input[type=time]:focus, input[type=week]:focus, input[type=month]:focus, input[type=date]:focus, input[type=datetime]:focus,
+textarea:focus, select:focus {
+	outline: none;
+	background: #e2e2e2;
+	box-shadow: 0 3px 6px rgba(0,0,0,.08) inset;
+    -moz-box-shadow: 0 3px 6px rgba(0,0,0,.08) inset;
+	-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.08) inset;
+}
+
+input[type=submit] {
+    width: auto;
+	-webkit-appearance: none;
+}
+
+body select {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAFCAYAAACn39dKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAD5JREFUeNpiYGBgmMmAG8z8//8/A7GYCaYJm0EMJAKQYelYNMPY6aQYxojHJWCDQM4nxWUMWFyRzkAGAAgwAGMTKhZAxxJyAAAAAElFTkSuQmCC');
+    background-repeat: no-repeat;
+    background-position: right;
+}

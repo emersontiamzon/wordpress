@@ -1,0 +1,8 @@
+V 1.0.2
+  - Fixed Screen Options bug
+V 1.0.1
+  - Fixed a few typos
+  - Changed text domain from 'pixova' to 'macho-shortcode-manager'
+  - Fixed a few typos
+  - Added text domains in missing places
+  - Replaced MSM icon with a new one

@@ -1,0 +1,30 @@
+.widget {
+    overflow: hidden;
+	margin: 0 0 40px;
+}
+
+.widget .widget-title {
+    margin: 0 0 20px;
+    font-size: 1.2em;
+	line-height: 1.2;
+}
+
+.widget ul {
+    margin-bottom: 0;
+}
+
+.widget ul li {
+    position: relative;
+    padding: 0;
+    margin: 0 0 8px;
+}
+
+.widget li {
+    list-style: none;
+    margin-left: 0;
+}
+
+.widget li ul {
+    margin-left: 20px;
+    margin-top: 5px;
+}

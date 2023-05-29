@@ -1,0 +1,75 @@
+.pagination {
+    overflow: hidden;
+    margin: 0 0 30px;
+    text-align: center;
+}
+
+.pagination ul {
+    display: block;
+}
+
+.pagination ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.pagination span,
+.pagination a {
+    display: block;
+    margin: 0 1px;
+    padding: 5px 15px;
+    border-radius: 3px;
+}
+
+.pagination .current {
+    color: #fff;
+    background: #666;
+}
+
+.pagination a:hover,
+.pagination a:focus {
+    background: #eee;
+    text-decoration: none;
+}
+
+/* NUMBERED PAGINATION FOR SINGLE POSTS */
+.postpagination {
+    overflow: hidden;
+    margin: 0 0 30px;
+}
+
+.postpagination span {
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 3px;
+    margin: 0 5px 0 0;
+}
+
+.postpagination a {
+    display: inline-block;
+}
+
+.postpagination a span {
+    display: block;
+}
+
+.postpagination > span {
+    color: #fff;
+    background: #666;
+}
+
+.pagination span,
+.pagination a {
+    border-radius: 30px;
+    padding: 8px 18px;
+    border: 1px solid #eee;
+}
+
+/* NUMBERED PAGINATION FOR SINGLE POSTS */
+.postpagination span {
+}
+
+.postpagination a span {
+}

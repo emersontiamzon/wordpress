@@ -1,0 +1,150 @@
+/* WRAPPERS */
+.outer {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.container {
+    max-width: 960px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.wrapper {
+	margin: 0 auto;
+}
+
+.wrapper-boxed .wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1000px;
+}
+
+/* MAIN/CONTENT */
+.main {
+    overflow: hidden;
+	padding: 90px 0 90px;
+	background: #fff;
+}
+
+/* Full width pages have no container */
+.content-full .main {
+    padding: 0;
+}
+
+.content-full .main > .container {
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+}
+
+.content,
+.sidebar {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.content {
+    float: left;
+    width: 66%;
+    margin: 0 4% 30px 0;
+    padding: 0;
+}
+
+/* Single Sidebar Positions */
+.sidebar-left .content {
+    float: right;
+    margin-right: 0;
+    margin-left: 4%;
+}
+
+/* Double Sidebar Positions */
+.sidebar-double .content {
+    float: left;
+    width: 46%;
+    margin-left: 27%;
+    margin-right: 4%;
+}
+
+.sidebar-double-left .content {
+    float: right;
+    width: 46%;
+    margin-right: 0;
+    margin-left: 4%;
+}
+
+.sidebar-double-right .content {
+    width: 46%;
+}
+
+.sidebar-double .main-container {
+}
+
+/* No Sidebar */
+.content-wide,
+.sidebar-none .content,
+.sidebar-narrow .content,
+.sidebar-left .content-wide,
+.sidebar-right .content-wide,
+.sidebar-double .content-wide,
+.sidebar-double-left .content-wide,
+.sidebar-double-right .content-wide {
+    float: none;
+    margin: 0;
+    width: auto;
+}
+
+/* Narrow content */
+.sidebar-narrow .content {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* SIDEBARS */
+.sidebar {
+    float: left;
+    width: 30%;
+}
+
+.main-full .sidebar {
+    padding: 30px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.sidebar-none .sidebar,
+.sidebar-narrow .sidebar {
+    display: none;
+}
+
+.sidebar-double .sidebar,
+.sidebar-double-left .sidebar,
+.sidebar-double-right .sidebar {
+    width: 23%;
+}
+
+/* Secondary Sidebar */
+.sidebar-secondary {
+    margin-left: 4%;
+}
+
+.sidebar-none .sidebar-secondary,
+.sidebar-narrow .sidebar-secondary,
+.sidebar-left .sidebar-secondary,
+.sidebar-right .sidebar-secondary {
+    display: none;
+}
+
+.sidebar-double .sidebar-primary {
+    float: left;
+    margin-left: -77%;
+}
+
+.sidebar-double .sidebar-secondary {
+    margin-left: 0;
+}

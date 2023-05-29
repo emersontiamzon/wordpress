@@ -1,0 +1,14 @@
+.woocommerce div.product div.images .flex-control-thumbs li:nth-child(4n+1) {
+    clear: left;
+}
+
+.woocommerce div.product div.images .woocommerce-product-gallery__wrapper {
+    margin: 0;
+}
+
+.woocommerce #respond input#submit,
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button {
+	font-weight: inherit;
+}

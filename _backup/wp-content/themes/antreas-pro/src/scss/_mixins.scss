@@ -1,0 +1,17 @@
+@mixin media( $res ) {
+	@if smartphone == $res {
+		@media only screen and (max-width: $mobile_width) {
+			@content;
+		}
+	}
+	@if tablet_portrait == $res {
+		@media only screen and (max-width: $tablet_portrait_width) {
+			@content;
+		}
+	}
+	@if tablet_landscape == $res {
+		@media only screen and (max-width: $tablet_landscape_width) {
+			@content;
+		}
+	}
+}

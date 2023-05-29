@@ -1,0 +1,41 @@
+.subfooter {
+    overflow: hidden;
+	padding: 60px 0;
+}
+
+.footer {
+    position: relative;
+    overflow: hidden;
+	padding: 20px 0 20px;
+    clear: both;
+	text-align: center;
+}
+
+.footer #back-to-top {
+	display: block;
+	width: 42px;
+	height: 42px;
+	margin-top: -21px;
+	position: absolute;
+	right: 20px;
+	top: 50%;
+	border-radius: 50%;
+	background-color: rgba(0,0,0,0.2); 
+	transition: 0.4s all cubic-bezier(0.19, 1, 0.22, 1);
+	font-size: 12px; 
+	line-height: 42px; 
+    text-align: center;
+  	color: #fff; 
+	cursor: pointer;
+	border-radius: 50%;
+	font-family: 'fontawesome';
+
+	&:hover {
+		transform: scale(1.1);
+		text-decoration: none;
+	}
+
+	&:before {
+		content: '\f0d8';
+	}
+}

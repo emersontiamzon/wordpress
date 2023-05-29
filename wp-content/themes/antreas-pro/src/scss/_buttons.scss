@@ -1,0 +1,73 @@
+html body .button,
+html body .button:link,
+html body .button:visited,
+html body input[type=submit] {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    border: 1px solid transparent;
+  /*   margin: 5px 0; */
+    padding: 8px 18px;
+    color: #fff;
+    text-align: center;
+	border-radius: 40px;
+    cursor: pointer;
+	background: #ccc;
+	transition: 0.4s all;
+}
+
+html body .button:hover,
+html body .button:focus,
+html body input[type=submit]:hover,
+html body input[type=submit]:focus {
+    background: #ccc;
+    text-decoration: none;
+}
+
+.button:active,
+input[type=submit]:active {
+	top: 1px;
+}
+
+.button.button-small {
+    font-size: 0.9em;
+    padding: 5px 10px;
+    margin: 5px 0;
+}
+
+.button.button-medium {
+    font-size: 1.2em;
+    padding: 15px 20px;
+    margin: 5px 0;
+}
+
+.button.button-large {
+    font-size: 1.8em;
+    padding: 20px 30px;
+    margin: 10px 0;
+}
+
+.button.button-left {
+    float: left;
+    margin: 0 30px 10px 0;
+}
+
+.button.button-right {
+    float: right;
+    margin: 0 0 10px 30px;
+}
+
+.button.button-center {
+    display: block;
+    clear: both;
+    float: none;
+    margin: 0 0 30px;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.button.button-center:last-child {
+    margin-bottom: 0;
+}

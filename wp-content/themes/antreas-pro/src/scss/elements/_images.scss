@@ -1,0 +1,60 @@
+img {
+    margin: 0;
+    max-width: 100%;
+    line-height: 0;
+    height: auto;
+}
+
+.alignleft, img.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 30px;
+    margin-top: 4px;
+}
+
+.alignright, img.alignright {
+    display: inline;
+    float: right;
+    margin-left: 30px;
+    margin-top: 4px;
+}
+
+.aligncenter, img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.alignleft, img.alignright, img.aligncenter {
+    margin-bottom: 12px;
+}
+
+/* INLINE IMAGE CAPTIONS */
+.wp-caption {
+    margin-bottom: 15px;
+    padding: 0;
+    max-width: 100%;
+    line-height: 0em;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.wp-caption img {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    line-height: 0em;
+}
+
+.wp-caption .wp-caption-text {
+    margin: 10px 0 0;
+    padding: 0 10px 0;
+    text-align: left;
+    color: #888;
+    line-height: 1.4em;
+    font-size: 12px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}

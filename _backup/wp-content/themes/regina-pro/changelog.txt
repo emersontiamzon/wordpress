@@ -1,0 +1,107 @@
+V 2.0.2
+    - Added Kaliforms Compatibility
+	- Improved compatibility with keyboard navigation
+
+V 2.0.1
+    - Added more social networks to MT contact widget
+    - Added more social networks to contact page sidebar
+    - Added G+ on social platforms
+    - Added Polylang Compatibility
+    - Fixed : HTML in Footer copyright
+    - Fixed : Licensing system
+    - Fixed : Minor css issues on metaboxes
+    - Fixed : You cannot remove the default logo, only replace it
+
+V 2.0
+	- Included the option to add homepage sections to the menu
+   	- Small design tweaks
+   	- Fixed blog shortcode bug
+   	- Removed Kirki plugin
+   	- Removed Macho Shortcode Manager plugin
+
+V 1.7
+    - Fixed #85 Add padding for testimonial slider
+    - Fixed #89 Custom services icon doesn't show up unless I pick a font-awesome icon
+    - Fixed #59 Add CF7 form to booking modal
+    - Fixed #80 Icon picker not completely visible
+
+V 1.6.0
+    - #66 ( Search box does not get custom color )
+    - #69 ( Top drawer phone and mail hover effect )
+    - #68 ( Map shortcode is hardcoded in contact page template )
+    - #69 ( Top drawer phone and mail hover effect )
+    - #70 ( Footer content styling )
+    - #71 ( Remove Customize > Contact Info > Long/Lat )
+    - #73 ( Test responsive  )
+    - #74 ( Contact page 3 mentions )
+    - #75 ( On member single page, book appointment button needs to be customisable - url & label )
+    - #76 ( Page header custom image issue )
+    - #78 ( Replace screenshot )
+
+V 1.5.0
+    - Fixed #57 ( Make sure all strings are translatable )
+    - Fixed #58 ( Sanitize & Escape all the content )
+    - Fixed #63 ( Generate .po/.mo files )
+    - Fixed #65 ( Add back the error message for booking modal )
+    - Fixed #67 ( Missing Google Map API key from the MSM )
+
+V 1.4.0
+    - Fixed #3 ( Members and Services Order not working )
+    - Fixed #5 ( Add mailto: and target_blank for social links in the top header )
+    - Fixed #6 ( Cannot submit booking modal on small screens )
+    - Fixed #8 ( Add 2nd & 3rd level sub-menus )
+    - Fixed #10 ( Custom services icons (media) does not display on service page )
+    - Fixed #13 ( Custom color scheme breaks the hover state color on the services icon )
+    - Fixed #14 ( Change Adress to Address in footer widget and Customize > Contact Information )
+    - Fixed #20 ( Center team members when less than 4 )
+    - Fixed #22 ( Google maps error )
+    - Fixed #24 ( Slider image full-width on screens bigger than 1920px )
+    - Fixed #25 ( Deprecated widget constructor )
+    - Fixed #28 ( Change logo from 'MedPlus' to 'Regina' )
+    - Fixed #30 ( Missing <?php body_class(); ?> )
+    - Fixed #31 ( Members page: if page title meta is empty, use the actual back-end page title )
+    - Fixed #32 ( Add :nth-child for more than 4 elements in services, team, etc )
+    - Fixed #33 ( Appointment shortcode button custom color scheme is broken )
+    - Fixed #34 ( Preloader display bug in customizer )
+    - Fixed #35 ( Testimonials slider image gets cut off )
+    - Fixed #37 ( Services pages not like in PSD )
+    - Fixed #38 ( Add defaults for Contact Widget  )
+    - Fixed #39 ( Change hardcoded logo title="Regina"  )
+    - Fixed #40 ( Change Footer widget title & copyright year )
+    - Fixed #41 ( Center services when less than 4 )
+    - Fixed #43 ( Duplicate alt title on team members images )
+    - Fixed #44 ( Add the_content on services-page.php )
+    - Fixed #47 ( Picture align center not working )
+    - Fixed #50 ( Add custom posts order plugin for section/members/others )
+    - Fixed #52 ( Change docs links from Welcome screen WP Admin )
+    - Fixed #53 ( Content issues )
+    - Fixed #54 ( Sidebar errors on install )
+    - Fixed #56 ( Demo content: replace [gallery] shortcode with [mt-gallery] )
+    - Fixed #62 ( Add admin notice if Kirki isn't installed/activated in V1.4.0 )
+    - Changed author / theme URI in style.css to https:// version
+
+V 1.3.0
+	- Fixed Responsive issue ( #38 )
+	- Fixed Services DashIcon Bug ( #36 )
+	- Fixed Links in accordion shortcode ( #40 )
+	- Fixed Homepage Slider on Mac ( #42 )
+	- Added Bullets to Lists ( #37 )
+	- Added Custom image for Service Icon ( #39 )
+	- Added Autoplay option for Homepage Slider ( #41 )
+V 1.2.1
+	- Fixed Screen Option bug (MSM #18)
+V 1.2
+	- Fixed Top Header Bug (#32)
+	- Added Sub Menus (Dropdown)
+	- Fixed Navigation on mobile (#34)
+	- Fixed navigation at 1200px (#33)
+V 1.1.0
+	- Added Slider URL
+	- Added Booking button URL
+	- Added Custom JS field in customizer
+	- Added Custom CSS field in customizer
+	- Added Preloader
+	- Added the posibility to change CPT url
+	- Fixed Logo bug
+V 1.0.0
+    - Initial release

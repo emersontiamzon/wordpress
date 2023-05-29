@@ -1,0 +1,177 @@
+.comments {
+    clear: both;
+    margin: 0;
+}
+
+.comments-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 30px;
+}
+
+.comment {
+    overflow: hidden;
+    list-style: none;
+    margin: 0 0 10px;
+    padding: 0;
+}
+
+.comment.bypostauthor > .comment-body {
+}
+
+.comment .comment-avatar img {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+	margin-right: 12px;
+	box-shadow: 0 1px 2px rgba(0,0,0,.07);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.07);
+}
+
+.comment .comment-body {
+    margin: 0 0 26px 0px;
+	background-color: #fff;
+	padding: 26px;
+	border: 1px solid #eee;
+	border-radius: 2px;
+}
+
+.comment .comment-title {
+    position: relative;
+    padding: 0 0 10px;
+    margin: 0 0 10px;
+}
+
+.comment .comment-author {
+    display: block;
+    font-size: 1.3em;
+    line-height: 1.2em;
+    margin: 0 0 5px;
+}
+
+.comment .comment-date {
+    font-size: 0.9em;
+}
+
+.comment .comment-approval {
+    display: block;
+    padding: 0 10px 0;
+    margin: 0;
+}
+
+.comment .comment-content {
+    margin: 0;
+    padding: 0;
+}
+
+.comment .comment-options {
+    overflow: hidden;
+    float: right;
+    text-align: right;
+    padding: 5px 10px;
+    border-radius: 2px;
+    font-size: 0.9em;
+    border: 1px solid #eee;
+}
+
+.comment .comment-options a {
+    margin-left: 10px;
+}
+
+.comment .comment-options a:first-child {
+    margin: 0;
+}
+
+/* Contents Styling for Comment Body */
+.comment .comment-content ul,
+.comment .comment-content ol {
+    margin-bottom: 18px;
+}
+
+.comment .comment-content p:last-child {
+    margin-bottom: 6px;
+}
+
+.comment .comment-content blockquote p:last-child {
+    margin-bottom: 24px;
+}
+
+/* Nested Comments */
+.comment .children {
+    list-style: none;
+    margin: 0 0 0 50px;
+}
+
+/* Pingbacks & Trackbacks */
+.comments ol.pinglist {
+    margin: 0;
+}
+
+.comments .pingback {
+    list-style: none;
+    margin: 0 0 10px 0;
+}
+
+.comments .pingback .url {
+    font-style: italic;
+}
+
+/* Author Comments */
+.bypostauthor {
+}
+
+/* COMMENT FORM */
+.comment-respond {
+    margin: 30px 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.comment-respond p {
+    overflow: hidden;
+}
+
+/* Fields */
+.comment-respond .comment-notes {
+    display: none;
+}
+
+.comment-respond .required {
+    color: #ff4b33;
+}
+
+.comment-respond label {
+    display: block;
+    padding: 5px 0;
+}
+
+.comment-respond textarea {
+    height: 200px;
+    max-height: 400px;
+    min-height: 200px;
+    resize: vertical;
+}
+
+/* Nested Form */
+#cancel-comment-reply-link {
+    float: right;
+    display: block;
+    font-size: 0.9em;
+}
+
+/* Allowed Tags */
+.comment-respond .form-allowed-tags {
+    display: none;
+    color: #888;
+    font-size: 0.9em;
+}
+
+.comment-respond .form-allowed-tags code {
+    display: block;
+    font-size: 0.9em;
+}
+
+.comment-respond .form-submit {
+}

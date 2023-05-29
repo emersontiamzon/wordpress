@@ -1,0 +1,96 @@
+.post {
+    margin: 0 0 40px;
+    background: #fff;
+}
+
+.post .post-image {
+    margin: 0;
+}
+
+.post .post-image img {
+    display: block;
+    margin: 0;
+    line-height: 0em;
+    width: 100%;
+    height: auto;
+}
+
+.post .post-body {
+    padding: 0px;
+}
+
+.post .post-title {
+    font-size: 1.4em;
+    padding: 0;
+	margin: 26px 0 16px;
+}
+
+.post .post-title a {
+    color: inherit;
+}
+
+.post .post-byline {
+    overflow: hidden;
+    position: relative;
+    margin: 0px 0 16px;
+	color: #aaa;
+}
+
+.post .post-byline div {
+    float: left;
+    position: relative;
+    padding: 0 22px 0 0;
+	margin-bottom: 10px;
+}
+
+.post .post-byline div:last-child {
+    padding-right: 0;
+}
+
+.post .post-content {
+    padding: 0;
+	margin: 0 0 26px 0;
+}
+
+.post .post-content p:last-child {
+    margin-bottom: 0;
+}
+
+.post .post-readmore {
+    margin: 0;
+}
+
+.post .post-tags {
+    display: block;
+    margin: 0 0;
+}
+
+.post .post-tags a {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    margin: 0 10px 10px 0;
+}
+
+.post .post-comments {
+    float: right;
+    padding: 10px 20px;
+    border: 1px solid #eee;
+	border-radius: 50px;
+}
+
+.post .post-comments a {
+    color: inherit;
+}
+
+.post .post-comments a:hover,
+.post .post-comments a:focus {
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.post .post-comments a:after {
+    content: ' \f0e5';
+    font-family: 'fontawesome';
+}

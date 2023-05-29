@@ -1,0 +1,2619 @@
+# Copyright (C) 2016 Macho Themes
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Regina 1.3.0\n"
+"Report-Msgid-Bugs-To: https://www.machothemes.com/\n"
+"POT-Creation-Date: 2016-08-08 08:36:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Macho Themes <office@machothemes.com>\n"
+"Language-Team: Macho Themes <office@machothemes.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:56
+msgid "Name"
+msgstr ""
+
+#: comments.php:58 includes/framework/support/class.macho-support.php:199
+#: page-contact.php:52
+msgid "Email"
+msgstr ""
+
+#: comments.php:60
+msgid "Website"
+msgstr ""
+
+#: footer.php:20
+msgid "Make an appointment and we’ll contact you."
+msgstr ""
+
+#: footer.php:26
+msgid "Your name"
+msgstr ""
+
+#: footer.php:30
+msgid "Email address"
+msgstr ""
+
+#: footer.php:34
+msgid "Phone Number"
+msgstr ""
+
+#: footer.php:38
+msgid "Appointment Date"
+msgstr ""
+
+#: footer.php:42 includes/framework/support/class.macho-support.php:200
+msgid "Message"
+msgstr ""
+
+#: footer.php:46 includes/framework/support/class.macho-support.php:201
+msgid "Send"
+msgstr ""
+
+#: footer.php:49
+msgid "Message Sent"
+msgstr ""
+
+#: footer.php:79
+msgid " Regina. All Rights Reserved."
+msgstr ""
+
+#: front-page.php:9
+msgid "We help people, like you."
+msgstr ""
+
+#: front-page.php:10
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: front-page.php:11 header/header-v1.php:49 header/header-v2.php:51
+#: header/header-v3.php:49 layout/content-single-member.php:72
+msgid "Book Appointment"
+msgstr ""
+
+#: functions.php:194
+msgid "Reply"
+msgstr ""
+
+#: functions.php:294 includes/framework/plugins/plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:295 includes/framework/plugins/plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:296 includes/framework/plugins/plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:298 includes/framework/plugins/plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:299 includes/framework/plugins/plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:301 includes/framework/plugins/plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:303
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:305 includes/framework/plugins/plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:307 includes/framework/plugins/plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:309
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:311 includes/framework/plugins/plugin-activation.php:352
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:313
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:315 includes/framework/plugins/plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:316 includes/framework/plugins/plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:317 includes/framework/plugins/plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:318 includes/framework/plugins/plugin-activation.php:399
+#: includes/framework/plugins/plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:319
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:345
+msgid "Patient Name: "
+msgstr ""
+
+#: functions.php:352
+msgid "Patient Email: "
+msgstr ""
+
+#: functions.php:359
+msgid "Patient Phone: "
+msgstr ""
+
+#: functions.php:366
+msgid "Appointment Date: "
+msgstr ""
+
+#: functions.php:373
+msgid "Patient Message: "
+msgstr ""
+
+#: functions.php:391
+msgid "New Appointment"
+msgstr ""
+
+#: header/header-v1.php:54 header/header-v1.php:60 header/header-v2.php:56
+#: header/header-v2.php:62 header/header-v3.php:54 header/header-v3.php:61
+#: header/subheader-archive.php:12
+msgid "Search"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:81
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:492
+msgid "Home"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:82
+msgid "Tag:"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:83
+msgid "Search:"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:84
+msgid "404 - Page not Found"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:281
+msgid "Blog"
+msgstr ""
+
+#: includes/framework/framework-extra.php:100
+msgid "PDFs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:101
+msgid "Manage PDFs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:102
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:105
+msgid "SWFs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:106
+msgid "Manage SWFs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:107
+msgid "SWF <span class=\"count\">(%s)</span>"
+msgid_plural "SWFs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:110
+msgid "MOVs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:111
+msgid "Manage MOVs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:112
+msgid "MOV <span class=\"count\">(%s)</span>"
+msgid_plural "MOVs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:115
+msgid "FLVs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:116
+msgid "Manage FLVs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:117
+msgid "FLV <span class=\"count\">(%s)</span>"
+msgid_plural "FLVs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:191
+msgid "There are no more projects."
+msgstr ""
+
+#: includes/framework/framework-extra.php:440
+msgid "Post navigation"
+msgstr ""
+
+#: includes/framework/framework-extra.php:450
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: includes/framework/framework-extra.php:454
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/framework/framework-extra.php:691
+msgid "Share this article - choose your platform:"
+msgstr ""
+
+#: includes/framework/framework-extra.php:769 layout/content-member.php:27
+msgid "Read more"
+msgstr ""
+
+#: includes/framework/framework-extra.php:880
+msgid "Related posts: "
+msgstr ""
+
+#: includes/framework/framework-extra.php:952 layout/content-single.php:43
+msgid "No Comments"
+msgstr ""
+
+#: includes/framework/framework-extra.php:954
+msgid " Comments"
+msgstr ""
+
+#: includes/framework/framework-extra.php:956 layout/content-single.php:43
+msgid "1 Comment"
+msgstr ""
+
+#: includes/framework/framework-extra.php:960
+msgid "Comments are off for this post."
+msgstr ""
+
+#: includes/framework/framework-extra.php:1091
+msgid "View Full Post"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:259
+#: includes/framework/panels/admin/screens/welcome.php:17
+#: includes/framework/plugins/plugin-activation.php:2442
+#: includes/framework/updater/theme-updater-admin.php:191
+msgid "Version"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:262
+#: includes/framework/panels/admin/screens/welcome.php:20
+#: includes/framework/updater/theme-updater-admin.php:195
+msgid "Welcome"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:263
+#: includes/framework/panels/admin/screens/welcome.php:21
+#: includes/framework/updater/theme-updater-admin.php:196
+msgid "Product Registration"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:264
+#: includes/framework/panels/admin/loader.php:43
+#: includes/framework/panels/admin/screens/welcome.php:22
+#: includes/framework/updater/theme-updater-admin.php:197
+msgid "Support"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:265
+#: includes/framework/panels/admin/screens/welcome.php:23
+#: includes/framework/updater/theme-updater-admin.php:198
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:297
+msgid "Demo already imported"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:326
+msgid "Import Again"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:332
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:363
+#: includes/framework/panels/admin/screens/welcome.php:53
+#: includes/framework/support/class.macho-support.php:207
+#: includes/framework/updater/theme-updater-admin.php:248
+msgid "Thank you for choosing "
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:363
+msgid "We are fully dedicated to crafting the perfect experience for you."
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:675
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:736
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:820
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:844
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:870
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:925
+msgid "Imported"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:930
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/framework/importer/macho-importer.php:937
+msgid "No Title"
+msgstr ""
+
+#: includes/framework/importer/parsers.php:42
+#: includes/framework/importer/parsers.php:72
+#: includes/framework/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/framework/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/framework/importer/parsers.php:84
+#: includes/framework/importer/parsers.php:89
+#: includes/framework/importer/parsers.php:279
+#: includes/framework/importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:134
+#: includes/framework/importer/wordpress-importer.php:143
+#: includes/framework/importer/wordpress-importer.php:194
+#: includes/framework/importer/wordpress-importer.php:198
+#: includes/framework/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:199
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:215
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:240
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of "
+"this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:269
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually "
+"changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:374
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:425
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:465
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:511
+#: includes/framework/importer/wordpress-importer.php:652
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:537
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:559
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:618
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:790
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:916
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:934
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:1039
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/framework/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:104
+msgid "Save Options"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:105
+msgid "Settings saved."
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:106
+msgid "Settings reset to defaults."
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:348
+msgid ""
+"Registering your purchase will allow you to get support and automatic theme "
+"updates. We know you will love it. If you run into any trouble, please do "
+"not hesitate to fill out a support ticket. Our dedicated staff is ready to "
+"take on all support requests."
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:374
+#: includes/framework/options/class.macho-options-page.php:412
+msgid "Restore ALL Theme Defaults"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:395
+msgid "Never"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-taxonomy.php:244
+#: includes/framework/options/class.macho-options-user.php:254
+#: includes/framework/options/class.macho-options.php:650
+#: includes/framework/options/class.macho-options.php:715
+#: includes/framework/options/fields/class.macho-group-field.php:189
+#: includes/framework/options/fields/class.macho-group-field.php:212
+#: includes/framework/options/fields/class.macho-group-field.php:246
+#: includes/framework/options/fields/class.macho-group-field.php:295
+#: includes/framework/options/fields/class.macho-group-field.php:333
+#: includes/framework/options/fields/class.macho-group-field.php:380
+msgid "Field type not registered!"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-user.php:183
+msgid "You do not have permission to edit this user."
+msgstr ""
+
+#: includes/framework/options/class.macho-options-user.php:213
+msgid "User Settings Saved."
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:144
+msgid "This option is required."
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:469
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:499
+msgid "Options Layout"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:500
+msgid "Style:"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:502
+msgid "Standard"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:505
+msgid "Block"
+msgstr ""
+
+#: includes/framework/options/class.macho-page.php:69
+#: includes/framework/options/class.macho-page.php:70
+msgid "Options"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:87
+#: includes/framework/options/class.macho-post-type.php:90
+msgid "%s updated."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:88
+#: includes/framework/panels/custom-post-types.php:57
+#: includes/framework/panels/custom-post-types.php:126
+#: includes/framework/panels/custom-post-types.php:194
+#: includes/framework/panels/custom-post-types.php:310
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:89
+#: includes/framework/panels/custom-post-types.php:58
+#: includes/framework/panels/custom-post-types.php:127
+#: includes/framework/panels/custom-post-types.php:195
+#: includes/framework/panels/custom-post-types.php:311
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:91
+#: includes/framework/panels/custom-post-types.php:60
+#: includes/framework/panels/custom-post-types.php:129
+#: includes/framework/panels/custom-post-types.php:197
+#: includes/framework/panels/custom-post-types.php:313
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:92
+#: includes/framework/panels/custom-post-types.php:61
+#: includes/framework/panels/custom-post-types.php:130
+#: includes/framework/panels/custom-post-types.php:198
+#: includes/framework/panels/custom-post-types.php:314
+msgid "%s published."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:93
+#: includes/framework/panels/custom-post-types.php:62
+#: includes/framework/panels/custom-post-types.php:131
+#: includes/framework/panels/custom-post-types.php:199
+#: includes/framework/panels/custom-post-types.php:315
+msgid "%s saved."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:94
+#: includes/framework/panels/custom-post-types.php:63
+#: includes/framework/panels/custom-post-types.php:132
+#: includes/framework/panels/custom-post-types.php:200
+#: includes/framework/panels/custom-post-types.php:316
+msgid "%s submitted."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:95
+msgid "%s scheduled for: <strong>%s</strong>."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:96
+#: includes/framework/panels/custom-post-types.php:65
+#: includes/framework/panels/custom-post-types.php:134
+#: includes/framework/panels/custom-post-types.php:202
+#: includes/framework/panels/custom-post-types.php:318
+msgid "%s draft updated."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:124
+#: includes/framework/options/class.macho-post-type.php:126
+#: includes/framework/options/class.macho-taxonomy.php:91
+#: includes/framework/panels/custom-post-types.php:14
+#: includes/framework/panels/custom-post-types.php:16
+#: includes/framework/panels/custom-post-types.php:83
+#: includes/framework/panels/custom-post-types.php:85
+#: includes/framework/panels/custom-post-types.php:151
+#: includes/framework/panels/custom-post-types.php:153
+#: includes/framework/panels/custom-post-types.php:267
+#: includes/framework/panels/custom-post-types.php:269
+msgid "%ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:127
+#: includes/framework/panels/custom-post-types.php:17
+#: includes/framework/panels/custom-post-types.php:86
+#: includes/framework/panels/custom-post-types.php:154
+#: includes/framework/panels/custom-post-types.php:270
+msgid "%s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:128
+#: includes/framework/panels/custom-post-types.php:18
+#: includes/framework/panels/custom-post-types.php:87
+#: includes/framework/panels/custom-post-types.php:155
+#: includes/framework/panels/custom-post-types.php:271
+msgid "Add New"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:129
+#: includes/framework/options/class.macho-taxonomy.php:101
+#: includes/framework/panels/custom-post-types.php:19
+#: includes/framework/panels/custom-post-types.php:88
+#: includes/framework/panels/custom-post-types.php:156
+#: includes/framework/panels/custom-post-types.php:272
+msgid "Add New %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:130
+#: includes/framework/panels/custom-post-types.php:20
+#: includes/framework/panels/custom-post-types.php:89
+#: includes/framework/panels/custom-post-types.php:157
+#: includes/framework/panels/custom-post-types.php:273
+msgid "New %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:131
+#: includes/framework/options/class.macho-taxonomy.php:98
+#: includes/framework/panels/custom-post-types.php:21
+#: includes/framework/panels/custom-post-types.php:90
+#: includes/framework/panels/custom-post-types.php:158
+#: includes/framework/panels/custom-post-types.php:274
+msgid "Edit %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:132
+#: includes/framework/options/class.macho-taxonomy.php:99
+msgid "View %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:133
+#: includes/framework/options/class.macho-taxonomy.php:95
+#: includes/framework/panels/custom-post-types.php:23
+#: includes/framework/panels/custom-post-types.php:92
+#: includes/framework/panels/custom-post-types.php:160
+#: includes/framework/panels/custom-post-types.php:276
+msgid "All %ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:134
+#: includes/framework/options/class.macho-taxonomy.php:93
+#: includes/framework/panels/custom-post-types.php:24
+#: includes/framework/panels/custom-post-types.php:93
+#: includes/framework/panels/custom-post-types.php:161
+#: includes/framework/panels/custom-post-types.php:277
+msgid "Search %ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:135
+#: includes/framework/panels/custom-post-types.php:25
+#: includes/framework/panels/custom-post-types.php:94
+#: includes/framework/panels/custom-post-types.php:162
+#: includes/framework/panels/custom-post-types.php:278
+msgid "Parent %ss:"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:136
+#: includes/framework/panels/custom-post-types.php:26
+#: includes/framework/panels/custom-post-types.php:95
+#: includes/framework/panels/custom-post-types.php:163
+#: includes/framework/panels/custom-post-types.php:279
+msgid "No %ss found."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:137
+#: includes/framework/panels/custom-post-types.php:27
+#: includes/framework/panels/custom-post-types.php:96
+#: includes/framework/panels/custom-post-types.php:164
+#: includes/framework/panels/custom-post-types.php:280
+msgid "No %ss found in Trash."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:362
+#. translators: %s: date and time of the revision
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:370
+msgid "View"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:376
+msgid "Preview"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:94
+msgid "Popular %ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:96
+msgid "Parent %ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:97
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:100
+msgid "Update %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:102
+msgid "Add New %s Name"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:103
+msgid "Seperate %ss with commas"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:104
+msgid "Add or remove %ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:105
+msgid "Choose from the most used %ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:106
+msgid "No %ss found"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:35
+#: includes/framework/options/fields/class.macho-background-field.php:37
+#: includes/framework/options/fields/class.macho-media-field.php:28
+#: includes/framework/options/fields/class.macho-media-field.php:30
+msgid "Select Media"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:36
+#: includes/framework/options/fields/class.macho-media-field.php:29
+msgid "Media Library"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:146
+#: includes/framework/options/fields/class.macho-media-field.php:89
+msgid "Remove"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:147
+#: includes/framework/options/fields/class.macho-media-field.php:90
+msgid "Edit"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-export-field.php:28
+msgid "Download Export File"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-export-field.php:70
+msgid "An unknown error occured!"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-export-field.php:87
+msgid "The export option will become available once you save this form."
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:132
+msgid "System Fonts"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:145
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:191
+msgid "Font Family"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:197
+msgid "Font Size"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:200
+msgid "Line Height"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-gallery-field.php:28
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-gallery-field.php:29
+msgid "Delete Gallery"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-group-field.php:39
+msgid "Add Row"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-search-field.php:40
+msgid "Type to search"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-switch-field.php:29
+msgid "On"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-switch-field.php:30
+msgid "Off"
+msgstr ""
+
+#: includes/framework/panels/admin/loader.php:44
+msgid "Import Demo"
+msgstr ""
+
+#: includes/framework/panels/admin/loader.php:45
+#: includes/framework/panels/admin/loader.php:109
+#: includes/framework/panels/admin/loader.php:110
+msgid "Theme Options"
+msgstr ""
+
+#: includes/framework/panels/admin/screens/welcome.php:27
+msgid "Your Purchase Must Be Registered To Receive Theme Support & Auto Updates"
+msgstr ""
+
+#: includes/framework/panels/admin/screens/welcome.php:33
+#: includes/framework/panels/admin/screens/welcome.php:35
+msgid "Documentation"
+msgstr ""
+
+#: includes/framework/panels/admin/screens/welcome.php:34
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentaiton is an incredible resource for learning the ins and "
+"outs of using Regina."
+msgstr ""
+
+#: includes/framework/panels/admin/screens/welcome.php:39
+msgid "Theme Support"
+msgstr ""
+
+#: includes/framework/panels/admin/screens/welcome.php:40
+msgid ""
+"Support is handled via tickets. Please note that Macho Themes does only "
+"provides product support here."
+msgstr ""
+
+#: includes/framework/panels/admin/screens/welcome.php:41
+msgid "Open a Ticket"
+msgstr ""
+
+#: includes/framework/panels/admin/screens/welcome.php:53
+#: includes/framework/support/class.macho-support.php:207
+#: includes/framework/updater/theme-updater-admin.php:248
+msgid " We are fully dedicated to crafting the perfect experience for you."
+msgstr ""
+
+#: includes/framework/panels/custom-post-types.php:64
+#: includes/framework/panels/custom-post-types.php:133
+#: includes/framework/panels/custom-post-types.php:201
+#: includes/framework/panels/custom-post-types.php:317
+msgid "%s scheduled for: %s."
+msgstr ""
+
+#: includes/framework/panels/custom-post-types.php:222
+msgid "Project ID"
+msgstr ""
+
+#: includes/framework/panels/custom-post-types.php:223
+msgid "Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:12
+msgid "Section settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:13
+msgid ""
+"From here you will be able to control the front-page sections. Please make "
+"sure you've read the documentation before proceeding"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:26
+msgid "Select the section: background image, color & opacity."
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:47
+msgid "Enter the section title"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:48
+#: includes/framework/panels/metaboxes.php:54
+msgid "Default value"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:53
+msgid "Enter the sub-section title"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:75
+msgid "Select section style"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:77
+msgid "With Padding"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:78
+msgid "Without Padding"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:84
+msgid "Enable Full Width"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:90
+msgid "Display this section only if user is logged-in"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:130
+msgid "Service Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:136
+msgid "Service Icon Custom Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:141
+msgid "Dashicons & Font Awesome available."
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:146
+msgid "Place read more text here"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:152
+msgid "Place read more link here"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:174
+msgid "Member Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:180
+msgid "Member Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:185
+msgid "Place doctor position here"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:191
+msgid "Place in which hospitals this doctor work"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:214
+msgid "Add new social platform"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:219
+msgid "Select social icon"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:224
+msgid "Place social url here"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:232
+msgid "Page Member Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:239
+#: includes/framework/panels/metaboxes.php:260
+#: includes/framework/panels/metaboxes.php:335
+#: includes/framework/panels/metaboxes.php:356
+#: includes/framework/panels/metaboxes.php:372
+#: includes/framework/panels/metaboxes.php:381
+#: includes/framework/panels/metaboxes.php:391
+#: includes/framework/panels/metaboxes.php:401
+#: includes/framework/panels/metaboxes.php:410
+#: includes/framework/panels/metaboxes.php:420
+#: includes/framework/panels/metaboxes.php:438
+#: includes/framework/panels/metaboxes.php:506
+#: includes/framework/panels/metaboxes.php:527
+#: includes/framework/panels/metaboxes.php:536
+msgid "Enabled"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:240
+#: includes/framework/panels/metaboxes.php:261
+#: includes/framework/panels/metaboxes.php:336
+#: includes/framework/panels/metaboxes.php:357
+#: includes/framework/panels/metaboxes.php:373
+#: includes/framework/panels/metaboxes.php:382
+#: includes/framework/panels/metaboxes.php:392
+#: includes/framework/panels/metaboxes.php:402
+#: includes/framework/panels/metaboxes.php:411
+#: includes/framework/panels/metaboxes.php:421
+#: includes/framework/panels/metaboxes.php:439
+#: includes/framework/panels/metaboxes.php:507
+#: includes/framework/panels/metaboxes.php:528
+#: includes/framework/panels/metaboxes.php:537
+msgid "Disabled"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:243
+msgid "Enable Member Page header ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:247
+msgid "Member Page Header Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:264
+#: includes/framework/panels/metaboxes.php:360
+#: includes/framework/panels/metaboxes.php:531
+msgid "Enable Breadcrumbs ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:285
+msgid "Testimonial Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:286
+msgid ""
+"From here you will be able to control the testimonials. Please make sure "
+"you've read the documentation before proceeding"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:301
+msgid "Testimonial Person Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:322
+msgid "Header Post Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:323
+msgid "From here you will be able to control the post settings."
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:328
+msgid "Header settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:330
+msgid "Header - single post settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:339
+msgid "Enable Post header ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:343
+msgid "Post Header Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:365
+msgid "Post settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:367
+msgid "Single post settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:375
+msgid "Show single post featured image ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:384
+msgid "Show single meta ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:385
+msgid ""
+"By turning this off, the meta box below the featured image will not be "
+"displayed any more"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:394
+msgid "Show single post prev / next navigation ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:395
+msgid "Navigation between posts will be disabled"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:404
+msgid "Show single post social box ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:413
+msgid "Show single post author box ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:423
+msgid "Show single post related posts box ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:431
+msgid "Sidebar settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:433
+msgid "Sidebar - single post settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:441
+msgid "Show sidebar ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:442
+msgid "By turning off the sidebar, your single post will have a full-width layout"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:448
+#: includes/framework/panels/metaboxes.php:547
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:449
+#: includes/framework/panels/metaboxes.php:548
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:451
+msgid "Sidebar position"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:457
+#: includes/framework/panels/metaboxes.php:556
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:498
+msgid "Page Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:499
+msgid "From here you will be able to control the page settings."
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:510
+msgid "Enable Page header ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:514
+msgid "Page Header Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:540
+msgid "Enable Sidebar ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:545
+msgid "Select sidebar position"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:9
+msgid "[MT] User Social Media"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:16
+msgid "User Image"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:21
+msgid "Enter user FB url"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:22
+#: includes/framework/panels/user-meta.php:28
+#: includes/framework/panels/user-meta.php:34
+msgid "Read the documentation to set it up exactly like in the demo."
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:27
+msgid "Enter user Twitter @username below"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:33
+msgid "Enter user LinkedIN @username below"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:347
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:362
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:377
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:400
+#: includes/framework/plugins/plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:402
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:828
+#: includes/framework/plugins/plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:935
+#: includes/framework/plugins/plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2422
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3370
+#: includes/framework/plugins/plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3370
+#: includes/framework/plugins/plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Services"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:53
+#: includes/framework/shortcodes/shortcodes-init.php:80
+#: includes/framework/shortcodes/shortcodes-init.php:107
+msgid "Size"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:64
+#: includes/framework/shortcodes/shortcodes-init.php:91
+msgid "Link Text"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:69
+#: includes/framework/shortcodes/shortcodes-init.php:96
+msgid "Link URL"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Members"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:89
+msgid "Meet the full team"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:102
+msgid "Testimonials"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:119
+msgid "Gallery"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:124
+msgid "Add New Image"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:128
+msgid "Upload Image"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:135
+msgid "Appointment Button"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:140
+#: includes/framework/shortcodes/shortcodes-init.php:217
+msgid "Button Text"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:145
+#: includes/framework/shortcodes/shortcodes-init.php:227
+msgid "Button Style"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:147
+#: includes/framework/shortcodes/shortcodes-init.php:229
+msgid "Solid"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:148
+#: includes/framework/shortcodes/shortcodes-init.php:230
+msgid "Outline"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:154
+#: includes/framework/shortcodes/shortcodes-init.php:236
+msgid "Button Align"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:156
+#: includes/framework/shortcodes/shortcodes-init.php:238
+msgid "Left"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:157
+#: includes/framework/shortcodes/shortcodes-init.php:239
+msgid "Center"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:158
+#: includes/framework/shortcodes/shortcodes-init.php:240
+msgid "Right"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:165
+msgid "Accordion"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:170
+msgid "Add Accordion Item"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:174
+msgid "Accordion Title"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:179
+msgid "Accordion Text"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:186
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:191
+msgid "Number of blog posts"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:203
+msgid "Container"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:207
+msgid "Container Content"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:212
+msgid "Button"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:222
+msgid "Button URL"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:247
+msgid "Awards"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:252
+msgid "Add New Award"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:256
+msgid "Award Logo"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:261
+msgid "Award Name"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:268
+msgid "Section"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:272
+msgid "Background Color"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:13
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:15
+msgid "Widgets in this area will be shown on Blog pages."
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:23
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:25
+msgid "Widgets in this area will be shown on Pages."
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:43
+msgid "Custom Sidebar."
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:56
+msgid "Sidebar Footer %d"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:58
+msgid "Widgets in this area will be shown on footer."
+msgstr ""
+
+#: includes/framework/support/class.macho-support.php:44
+msgid "Support Request [CF THEME]"
+msgstr ""
+
+#: includes/framework/support/class.macho-support.php:45
+msgid "Your message has been sent successfully."
+msgstr ""
+
+#: includes/framework/support/class.macho-support.php:89
+msgid "Nonce Failure, please reload the page and try again."
+msgstr ""
+
+#: includes/framework/support/class.macho-support.php:93
+msgid "Please enter your email address."
+msgstr ""
+
+#: includes/framework/support/class.macho-support.php:97
+msgid "Please enter a message to be sent."
+msgstr ""
+
+#: includes/framework/support/class.macho-support.php:199
+msgid "Email Address"
+msgstr ""
+
+#: includes/framework/support/class.macho-support.php:200
+msgid "Enter your message"
+msgstr ""
+
+#: includes/framework/update-procedures.php:60
+msgid ""
+"Please make sure you've activated all required plugins, especially Kirki. "
+"To make sure, go %1$s"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:185
+msgid "Welcome to Regina!"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:188
+msgid ""
+"Regina is now installed and ready to use!  Get ready to build something "
+"amazing. <br /><u>Registering</u> your purchase will allow you to get "
+"support and automatic theme updates. Read below for additional information. "
+"We know you'll love it"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:551
+msgid "Registration"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:552
+msgid "Enter your theme license key."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:553
+msgid "License Key"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:554
+msgid "License Action"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:555
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:556
+msgid "Activate License"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:557
+#: includes/framework/updater/theme-updater-admin.php:569
+msgid "License status is unknown."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:558
+msgid "Renew?"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:559
+msgid "unlimited"
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:560
+msgid "License key is active."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:561
+msgid "Expires %s."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:562
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:563
+msgid "License key expired %s."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:564
+msgid "License key has expired."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:565
+msgid "License keys do not match."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:566
+msgid "License is inactive."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:567
+msgid "License key is disabled."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:568
+msgid "Site is inactive."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:570
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: includes/framework/updater/theme-updater-admin.php:571
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:10
+msgid "A widget that displays contact information. Designed for footer"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:19
+msgid "[MT] - Contact Info"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:130
+#: includes/framework/widgets/widget-members.php:96
+msgid "Title:"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:136
+msgid "Display telephone number ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:141
+msgid "Display fax number ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:146
+msgid "Display email address ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:151
+msgid "Display address ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:156
+msgid "Display social media links ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-members.php:10
+msgid "A widget that displays a number of members."
+msgstr ""
+
+#: includes/framework/widgets/widget-members.php:19
+msgid "[MT] - Members Widget"
+msgstr ""
+
+#: includes/framework/widgets/widget-members.php:101
+msgid "Number of members:"
+msgstr ""
+
+#: includes/kirki-customizer.php:13
+msgid "Header Area"
+msgstr ""
+
+#: includes/kirki-customizer.php:14
+msgid "Here you will control header area options"
+msgstr ""
+
+#: includes/kirki-customizer.php:17
+msgid "Homepage Area"
+msgstr ""
+
+#: includes/kirki-customizer.php:23
+msgid "Blog settings"
+msgstr ""
+
+#: includes/kirki-customizer.php:24
+msgid "Here you will control blog options"
+msgstr ""
+
+#: includes/kirki-customizer.php:27
+msgid "Contact Info"
+msgstr ""
+
+#: includes/kirki-customizer.php:32
+msgid "Typography & Colors"
+msgstr ""
+
+#: includes/kirki-customizer.php:37
+msgid "Manage Sidebars"
+msgstr ""
+
+#: includes/kirki-customizer.php:42
+msgid "Footer Area"
+msgstr ""
+
+#: includes/kirki-customizer.php:47
+msgid "Preloader Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:52
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:58
+msgid "Top Header Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:65
+msgid "Header Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:72
+msgid "Blog: Categories Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:79
+msgid "Blog: Tags Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:86
+msgid "Blog: Author Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:93
+msgid "Blog: Archives Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:100
+msgid "Blog: Search Options"
+msgstr ""
+
+#: includes/kirki-customizer.php:110
+msgid "Enable Top Header ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:119
+msgid "Enable Top Header Email ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:128
+msgid "Enable Top Header Telephone Number ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:137
+msgid "Enable Top Header Facebook ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:146
+msgid "Enable Top Header Twitter ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:155
+msgid "Enable Top Header LinkedIN ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:164
+msgid "Enable Top Header Youtube ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:175
+msgid "Logo Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:184
+msgid "Choose Header Type"
+msgstr ""
+
+#: includes/kirki-customizer.php:198
+msgid "Enable \"Book Appointment\" in nav.?"
+msgstr ""
+
+#: includes/kirki-customizer.php:207
+msgid "\"Book Appointment\" text in nav."
+msgstr ""
+
+#: includes/kirki-customizer.php:216
+msgid "Enable search icon in nav. menu?"
+msgstr ""
+
+#: includes/kirki-customizer.php:227
+msgid "Select your background type"
+msgstr ""
+
+#: includes/kirki-customizer.php:241
+msgid "Static Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:257
+msgid "Repeater Control"
+msgstr ""
+
+#: includes/kirki-customizer.php:274
+msgid "Select Slide Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:279
+msgid "Slide URL"
+msgstr ""
+
+#: includes/kirki-customizer.php:295
+msgid "Enable Slider autoplay ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:311
+msgid "Homepage Section Title"
+msgstr ""
+
+#: includes/kirki-customizer.php:319
+msgid "Homepage Section Description"
+msgstr ""
+
+#: includes/kirki-customizer.php:327
+msgid "Homepage Section Button Text"
+msgstr ""
+
+#: includes/kirki-customizer.php:335
+msgid "Homepage Section Button URL"
+msgstr ""
+
+#: includes/kirki-customizer.php:336
+msgid "Leave it blank in order to show the appointment popup"
+msgstr ""
+
+#: includes/kirki-customizer.php:346
+msgid "Enable header on categories page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:354
+msgid "Category Header Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:362
+msgid "Enable breadcrumbs on categories page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:370
+msgid "Enable sidebar on categories page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:378
+msgid "Category Sidebar Position"
+msgstr ""
+
+#: includes/kirki-customizer.php:399
+msgid "Enable header on tags page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:407
+msgid "Tag Header Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:415
+msgid "Enable breadcrumbs on tags page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:423
+msgid "Enable sidebar on tags page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:431
+msgid "Tag Sidebar Position"
+msgstr ""
+
+#: includes/kirki-customizer.php:452
+msgid "Enable header on author page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:460
+msgid "Author Header Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:468
+msgid "Enable breadcrumbs on author page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:476
+msgid "Enable sidebar on author page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:484
+msgid "Author Sidebar Position"
+msgstr ""
+
+#: includes/kirki-customizer.php:505
+msgid "Enable header on archives ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:513
+msgid "Archive Header Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:521
+msgid "Archive header description"
+msgstr ""
+
+#: includes/kirki-customizer.php:529
+msgid "Enable breadcrumbs on archives ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:537
+msgid "Enable sidebar on archives ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:545
+msgid "Archive Sidebar Position"
+msgstr ""
+
+#: includes/kirki-customizer.php:566
+msgid "Enable header on search page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:574
+msgid "Search Header Image"
+msgstr ""
+
+#: includes/kirki-customizer.php:582
+msgid "Search header description"
+msgstr ""
+
+#: includes/kirki-customizer.php:590
+msgid "Enable breadcrumbs on search page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:598
+msgid "Enable sidebar on search page ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:606
+msgid "Search Sidebar Position"
+msgstr ""
+
+#: includes/kirki-customizer.php:627
+msgid "Telephone number"
+msgstr ""
+
+#: includes/kirki-customizer.php:636
+msgid "Fax number"
+msgstr ""
+
+#: includes/kirki-customizer.php:645
+msgid "Contact Email"
+msgstr ""
+
+#: includes/kirki-customizer.php:654
+msgid "Jobs Email"
+msgstr ""
+
+#: includes/kirki-customizer.php:663
+msgid "Your Address"
+msgstr ""
+
+#: includes/kirki-customizer.php:675
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/kirki-customizer.php:684
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/kirki-customizer.php:693
+msgid "LinkedIN URL"
+msgstr ""
+
+#: includes/kirki-customizer.php:702
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/kirki-customizer.php:711 includes/kirki-customizer.php:712
+msgid "Google Maps API Key"
+msgstr ""
+
+#: includes/kirki-customizer.php:712
+msgid "Follow this link to get your API key: "
+msgstr ""
+
+#: includes/kirki-customizer.php:721
+msgid "Google Map Latitude"
+msgstr ""
+
+#: includes/kirki-customizer.php:730
+msgid "Google Map Longitude"
+msgstr ""
+
+#: includes/kirki-customizer.php:740
+msgid "Theme Primary Color:"
+msgstr ""
+
+#: includes/kirki-customizer.php:750
+msgid "Theme Primary Font:"
+msgstr ""
+
+#: includes/kirki-customizer.php:761
+msgid "Theme Secondary Font:"
+msgstr ""
+
+#: includes/kirki-customizer.php:773
+msgid "Create new Sidebars"
+msgstr ""
+
+#: includes/kirki-customizer.php:781
+msgid "Sidebar Name"
+msgstr ""
+
+#: includes/kirki-customizer.php:792
+msgid "Number of footer columns"
+msgstr ""
+
+#: includes/kirki-customizer.php:808
+msgid "Footer Copyright text"
+msgstr ""
+
+#: includes/kirki-customizer.php:818
+msgid "Enable Prealoader ?"
+msgstr ""
+
+#: includes/kirki-customizer.php:828
+msgid "Choose Preloader Type"
+msgstr ""
+
+#: includes/kirki-customizer.php:851
+msgid "Loading message"
+msgstr ""
+
+#: includes/kirki-customizer.php:875
+msgid "Custom Loader"
+msgstr ""
+
+#: includes/kirki-customizer.php:897
+msgid "Preloader text color:"
+msgstr ""
+
+#: includes/kirki-customizer.php:919
+msgid "Preloader graphics color:"
+msgstr ""
+
+#: includes/kirki-customizer.php:948
+msgid "Rewrite CPT Members"
+msgstr ""
+
+#: includes/kirki-customizer.php:949
+msgid "Change /member/ from Members URL"
+msgstr ""
+
+#: includes/kirki-customizer.php:959
+msgid "Contact Us on Services Page?"
+msgstr ""
+
+#: includes/kirki-customizer.php:960
+msgid "Display contact us section on the Services Page"
+msgstr ""
+
+#: includes/kirki-customizer.php:969
+msgid "Contact us title"
+msgstr ""
+
+#: includes/kirki-customizer.php:970
+msgid "Heading for this section"
+msgstr ""
+
+#: includes/kirki-customizer.php:972 page-services.php:13
+msgid "Speak with our doctors"
+msgstr ""
+
+#: includes/kirki-customizer.php:986
+msgid "Contact us subtitle"
+msgstr ""
+
+#: includes/kirki-customizer.php:987
+msgid "Subheadin for this section"
+msgstr ""
+
+#: includes/kirki-customizer.php:989 page-services.php:14
+msgid ""
+"We offer various services lorem ipsum dolor sit amet, consectetur "
+"adipisicing elit, sed do eiusmod tempor incididunt."
+msgstr ""
+
+#: includes/kirki-customizer.php:1003
+msgid "Custom CSS code"
+msgstr ""
+
+#: includes/kirki-customizer.php:1017
+msgid "Custom JS code"
+msgstr ""
+
+#: layout/content-single-member.php:45
+msgid "Monday - Friday"
+msgstr ""
+
+#: layout/content-single-member.php:54
+msgid "Saturday"
+msgstr ""
+
+#: layout/content-single-member.php:63
+msgid "Sunday"
+msgstr ""
+
+#: layout/content-single.php:24 layout/content.php:10
+msgid "by"
+msgstr ""
+
+#: layout/content-single.php:29 layout/content.php:15
+msgid "  -  in"
+msgstr ""
+
+#: layout/content-single.php:64
+msgid "Share this article"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#: page-contact.php:41
+msgid "Phone"
+msgstr ""
+
+#: page-contact.php:47
+msgid "Fax"
+msgstr ""
+
+#: page-contact.php:58
+msgid "Social"
+msgstr ""
+
+#: page-contact.php:84
+msgid "For job inquires use"
+msgstr ""
+
+#: single.php:59
+msgid "Related Posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Regina"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.machothemes.com/themes/regina/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Macho Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.machothemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:444
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: includes/framework/framework-extra.php:445
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:1116
+#: includes/framework/plugins/plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/plugins/plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/framework/plugins/plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""

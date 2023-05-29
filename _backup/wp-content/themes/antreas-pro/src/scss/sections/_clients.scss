@@ -1,0 +1,22 @@
+.clients {
+    display: block;
+    position: relative;
+    overflow: hidden;
+	padding-bottom: 0;
+}
+
+.clients .client {
+	margin: 0;
+	position: relative;
+}
+
+.clients .client img {
+    display: block;
+    margin: 0;
+}
+
+.clients .post-edit-link {
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+}

@@ -1,0 +1,75 @@
+/* NEXT/PREV POST NAVIGATION */
+.navigation {
+    overflow: hidden;
+    margin: 0 0 30px;
+}
+
+.navigation a {
+    display: block;
+}
+
+.navigation .nav-prev,
+.navigation .nav-next {
+    position: relative;
+	padding: 0;
+	padding: 0 30px;
+}
+
+.navigation .nav-prev {
+    float: left;
+    text-align: left;
+}
+
+.navigation .nav-prev:before {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    list-style: none;
+    font-family: 'fontawesome';
+    content: '\f104';
+    font-size: 30px;
+    color: #999;
+    margin-top: -15px;
+    line-height: 30px;
+}
+
+.navigation .nav-next {
+    float: right;
+    text-align: right;
+}
+
+.navigation .nav-next:before {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    list-style: none;
+    font-family: 'fontawesome';
+    content: '\f105';
+    font-size: 30px;
+    color: #999;
+    margin-top: -15px;
+    line-height: 30px;
+}
+
+/* PORTFOLIO NAVIGATION */
+.menu-portfolio {
+    overflow: hidden;
+    text-align: center;
+    margin: 0;
+	padding: 0;
+}
+
+.menu-portfolio .menu-item {
+    display: inline-block;
+    padding: 8px 18px;
+    margin: 10px 5px;
+	border: 1px solid #eee;
+	border-radius: 30px;
+}
+
+.menu-portfolio .menu-item:hover,
+.menu-portfolio .menu-item:focus {
+    text-decoration: none;
+}

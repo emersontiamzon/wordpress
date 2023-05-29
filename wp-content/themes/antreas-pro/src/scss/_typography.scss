@@ -1,0 +1,250 @@
+/* HEADINGS */
+h1, h2, h3, h4, h5, h6 {
+    color: #567;
+    line-height: 1.2;
+    margin: 0 0 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.3em;
+}
+
+h5 {
+    font-size: 1.2em;
+}
+
+h6 {
+    font-size: 1.1em;
+}
+
+
+/* HYPERLINKS */
+a:link, a:visited {
+    color: #2a88bf;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #2a88bf;
+    text-decoration: underline;
+}
+
+p, address {
+    margin-bottom: 1.6em;
+}
+
+span, div, p, dl, td, th, ul, ol, blockquote {
+}
+
+/* LISTS */
+ul li, ol li {
+    list-style: disc;
+    margin: 5px 0 5px 25px;
+    list-style-position: outside;
+}
+
+ol li {
+    list-style: decimal;
+}
+
+ol ol li {
+    list-style: upper-alpha;
+}
+
+ol ol ol li {
+    list-style: lower-roman;
+}
+
+ol ol ol ol li {
+    list-style: lower-alpha;
+}
+
+ol ul li,
+ol ol ul li,
+ol ol ol ul li {
+    list-style: disc;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+    margin-bottom: 0;
+}
+
+ul, ol, dd, pre, hr {
+    margin-bottom: 25px;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+    margin-bottom: 0;
+}
+
+dl {
+    margin: 0 0 24px 0;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-bottom: 18px;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+cite, em, i {
+    border: none;
+    font-style: italic;
+}
+
+big {
+    font-size: 131.25%;
+}
+
+ins {
+    background: #ffc;
+    border: none;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+/* ADDRESSES */
+address {
+    font-size: 0.9em;
+    line-height: 1.2em;
+}
+
+/* CITATIONS */
+blockquote {
+    display: block;
+    font-style: italic;
+    padding: 0 5%;
+    margin: 25px 0;
+}
+
+blockquote cite, blockquote em, blockquote i {
+    font-style: normal;
+}
+
+/* PREDEFINED TEXT */
+pre {
+    display: block;
+    overflow: auto;
+    font-family: Courier, monospace;
+    background: url(data:image/gif;base64,R0lGODlhAQAyAIAAAP////f39yH5BAAAAAAALAAAAAABADIAAAIIhI+pGO0P4ysAOw==);
+    border: 1px solid #eee;
+    color: #555;
+    line-height: 25px;
+    padding: 25px 20px;
+    font-size: 14px;
+    margin: 25px 0;
+}
+
+/* TEXT VARIATIONS */
+abbr, acronym {
+    border-bottom: 1px dotted #666;
+    cursor: help;
+}
+
+ins {
+    text-decoration: none;
+}
+
+sup, sub {
+    font-size: 0.7em;
+    height: 0;
+    line-height: 1;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    bottom: 1ex;
+}
+
+sub {
+    top: .5ex;
+}
+
+kbd, tt, var {
+    line-height: 21px;
+}
+
+code {
+    font-size: 1.05em;
+}
+
+/* CODE */
+code, code var {
+    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+}
+
+/* IFRAMES */
+iframe {
+    max-width: 100%;
+}
+
+/* TABLES */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0 0 24px;
+    text-align: left;
+    width: 100%;
+}
+
+tr th, thead th {
+    border: none;
+    color: #888;
+    font-weight: bold;
+    line-height: 1.2em;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr td {
+    border: none;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+tfoot tr td {
+    border-bottom: none;
+}
+
+tr td, tr th, thead th, tr th, thead th {
+}
+
+.dark tr th, .dark thead th {
+    border-bottom: 1px solid #ddd;
+}
+
+.dark tr td {
+    border-bottom: 1px solid #ddd;
+}
+
+/* HEADING LINE */
+hr {
+    background-color: #fff;
+    border: 0;
+    border-top: 1px solid #bbb;
+    border-bottom: 1px solid #fff;
+    clear: both;
+    height: 0;
+    margin: 40px 0;
+}

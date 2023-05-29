@@ -1,0 +1,52 @@
+div.wpcf7-response-output {
+    margin: 0 0 20px;
+    padding: 15px;
+    border-radius: 2px;
+}
+
+div.wpcf7-mail-sent-ok {
+    background: #d9f5ce;
+    color: #060;
+    border: 1px solid #6dcd72;
+}
+
+div.wpcf7-mail-sent-ng,
+div.wpcf7-spam-blocked {
+    background: #ffdec9;
+    color: #761a1a;
+    border: 1px solid #d8986e;
+}
+
+div.wpcf7-validation-errors {
+    background: #fff9d8;
+    color: #960;
+    border: 1px solid #cdb676;
+}
+
+span.wpcf7-not-valid-tip {
+    left: auto;
+    right: 10px;
+    width: auto;
+    top: 0;
+    border: none;
+    background: none;
+    color: #f61a1a;
+    padding: 0;
+    text-align: right;
+}
+
+span.wpcf7-not-valid-tip:before {
+    font-family: 'fontawesome';
+    content: '\f00d';
+    margin-right: 10px;
+}
+
+span.wpcf7-form-control-wrap {
+    width: 100%;
+}
+
+/* PROFILE BUILDER */
+.wppb-form-field {
+    list-style: none;
+    margin: 0 0 20px;
+}

@@ -1,0 +1,2462 @@
+# Copyright (C) 2018 Macho Themes
+# This file is distributed under the GNU General Public License 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Antreas Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.colorlib.com/\n"
+"POT-Creation-Date: 2018-10-23 17:01:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: MachoThemes <office@machothemes.com>\n"
+"Language-Team: MachoThemes <office@machothemes.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: core/classes/class-antreas-customize-contactform-control.php:67
+msgid "Select contact form plugin"
+msgstr ""
+
+#: core/classes/class-antreas-customize-contactform-control.php:75
+msgid ""
+"There are no contact form plugins activated. Please activate WPForms or "
+"Contact Form 7"
+msgstr ""
+
+#: core/classes/class-antreas-customize-contactform-control.php:82
+#: core/classes/class-antreas-customize-contactform-control.php:99
+msgid "Select form"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:33
+msgid "All"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:34
+#: core/metadata/data_customizer.php:47 core/metadata/data_customizer.php:198
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:772
+msgid "Homepage"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:35
+msgid "All posts"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:36
+msgid "All pages"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:37
+msgid "All portfolio items"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:38
+msgid "All services"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:39
+msgid "404 page"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:40
+msgid "Archive page"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:41
+msgid "Search page"
+msgstr ""
+
+#: core/classes/class-antreas-customize-selectize-control.php:72
+msgid "select pages..."
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:84
+#. translators: %s: title of menu item which is invalid
+msgid "%s (Invalid)"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:88
+#. translators: %s: title of menu item in draft status
+msgid "%s (Pending)"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:102
+msgid "sub item"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:119
+msgid "Move up"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:134
+msgid "Move down"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:138
+msgid "Edit menu item"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:138 core/markup.php:229
+#: core/markup.php:1524 core/markup.php:1563
+msgid "Edit"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:147
+#: core/metadata/data_general.php:610
+msgid "URL"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:154
+msgid "Navigation Label"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:160
+msgid "Title Attribute"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:167
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:172
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:178
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:184
+msgid "Description"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:186
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:193
+#: core/metadata/data_general.php:603
+msgid "Icon"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:199
+msgid "Style"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:207
+msgid "Move"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:208
+msgid "Up one"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:209
+msgid "Down one"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:212
+msgid "To the top"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:219
+msgid "Original: %s"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:235
+#: core/classes/class_customizer.php:101 core/forms.php:287 core/gallery.php:42
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:256
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:56
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:128
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:284
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:118
+msgid "Remove"
+msgstr ""
+
+#: core/classes/class-antreas-menu-edit-walker.php:246
+msgid "Cancel"
+msgstr ""
+
+#: core/classes/class_customizer.php:105 core/forms.php:293
+msgid "Add Row"
+msgstr ""
+
+#: core/classes/class_updater.php:56
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:63
+#. Translators: Update notice
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: core/custom.php:47 core/custom.php:55 core/custom.php:121
+msgid "Save Settings"
+msgstr ""
+
+#: core/custom.php:252
+msgid "default"
+msgstr ""
+
+#: core/filters.php:99 core/filters.php:122
+msgid "Portfolio Size"
+msgstr ""
+
+#: core/filters.php:108
+msgid "Portfolio size"
+msgstr ""
+
+#: core/filters.php:109
+msgid "Max Width"
+msgstr ""
+
+#: core/filters.php:111
+msgid "Max Height"
+msgstr ""
+
+#: core/forms.php:121
+msgid "Yes"
+msgstr ""
+
+#: core/forms.php:126
+msgid "No"
+msgstr ""
+
+#: core/forms.php:337
+msgid "Upload"
+msgstr ""
+
+#: core/forms.php:367
+msgid "This is a font preview image"
+msgstr ""
+
+#: core/gallery.php:53 core/gallery.php:54
+msgid "Add Images"
+msgstr ""
+
+#: core/gallery.php:53
+msgid "Add to gallery"
+msgstr ""
+
+#: core/gallery.php:53
+msgid "Delete image"
+msgstr ""
+
+#: core/gallery.php:53
+msgid "Delete"
+msgstr ""
+
+#: core/gallery.php:89
+msgid "Edit This Image"
+msgstr ""
+
+#: core/gutenberg.php:10
+msgid "Dark Gray"
+msgstr ""
+
+#: core/gutenberg.php:15
+msgid "Gray"
+msgstr ""
+
+#: core/gutenberg.php:20 core/metadata/data_customizer.php:1127
+msgid "Primary Color"
+msgstr ""
+
+#: core/gutenberg.php:25 core/metadata/data_customizer.php:1136
+msgid "Secondary Color"
+msgstr ""
+
+#: core/layout.php:163
+msgid "Default Widgets"
+msgstr ""
+
+#: core/layout.php:165
+msgid "Sidebar shown in all standard pages by default."
+msgstr ""
+
+#: core/layout.php:175
+msgid "Secondary Widgets"
+msgstr ""
+
+#: core/layout.php:177
+msgid "Shown in pages with more than one sidebar."
+msgstr ""
+
+#: core/layout.php:193
+msgid "Footer Widgets"
+msgstr ""
+
+#: core/layout.php:194
+msgid "Shown in the footer area."
+msgstr ""
+
+#: core/layout.php:208
+msgid "Top Menu"
+msgstr ""
+
+#: core/layout.php:209 core/metadata/data_customizer.php:1163
+msgid "Main Menu"
+msgstr ""
+
+#: core/layout.php:210
+msgid "Footer Menu"
+msgstr ""
+
+#: core/layout.php:211
+msgid "Mobile Menu"
+msgstr ""
+
+#: core/markup.php:27
+msgid "Page %s"
+msgstr ""
+
+#: core/markup.php:54
+msgid "Archive"
+msgstr ""
+
+#: core/markup.php:56 core/markup.php:783
+msgid "Page Not Found"
+msgstr ""
+
+#: core/markup.php:58
+msgid "Search Results for"
+msgstr ""
+
+#: core/markup.php:505
+msgid ""
+"The requested page could not be found. It could have been deleted or "
+"changed location. Try searching for it using the search function."
+msgstr ""
+
+#: core/markup.php:544
+msgid "Theme designed by <a href=\"%s\">Macho Themes</a>."
+msgstr ""
+
+#: core/markup.php:570
+msgid "Pages"
+msgstr ""
+
+#: core/markup.php:576
+msgid "Post Categories"
+msgstr ""
+
+#: core/markup.php:578
+msgid "Post Tags"
+msgstr ""
+
+#: core/markup.php:770
+msgid "Search Results"
+msgstr ""
+
+#: core/markup.php:785
+msgid "Home"
+msgstr ""
+
+#: core/markup.php:809
+msgid "Search"
+msgstr ""
+
+#: core/markup.php:814
+msgid "No results were found. Please try searching with different terms."
+msgstr ""
+
+#: core/markup.php:826 core/markup.php:842
+msgid "Go to %s"
+msgstr ""
+
+#: core/markup.php:889
+msgid "View all posts by %s"
+msgstr ""
+
+#: core/markup.php:923
+msgid "No Comments"
+msgstr ""
+
+#: core/markup.php:925
+msgid "One Comment"
+msgstr ""
+
+#: core/markup.php:927
+msgid "%1$s Comments"
+msgstr ""
+
+#: core/markup.php:954
+msgid "Read More"
+msgstr ""
+
+#: core/markup.php:982
+msgid "Website"
+msgstr ""
+
+#: core/markup.php:986
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:114
+msgid "Facebook"
+msgstr ""
+
+#: core/markup.php:990
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:116
+msgid "Twitter"
+msgstr ""
+
+#: core/markup.php:994
+msgid "Google+"
+msgstr ""
+
+#: core/markup.php:998
+msgid "LinkedIn"
+msgstr ""
+
+#: core/markup.php:1236 core/markup.php:1238
+msgid "First"
+msgstr ""
+
+#: core/markup.php:1252 core/markup.php:1254
+msgid "Last"
+msgstr ""
+
+#: core/markup.php:1482
+msgid ""
+"This page is protected. Please type the password to be able to read its "
+"contents."
+msgstr ""
+
+#: core/markup.php:1498
+msgid "One comment"
+msgstr ""
+
+#: core/markup.php:1500
+msgid "%s comments"
+msgstr ""
+
+#: core/markup.php:1541
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/markup.php:1548
+msgid "Your comment is awaiting approval."
+msgstr ""
+
+#: core/markup.php:1576
+msgid "Older"
+msgstr ""
+
+#: core/markup.php:1579
+msgid "Newer"
+msgstr ""
+
+#: core/metaboxes.php:12 core/metaboxes.php:136
+msgid "Layout Options"
+msgstr ""
+
+#: core/metaboxes.php:16
+msgid "Slide Options"
+msgstr ""
+
+#: core/metaboxes.php:19
+msgid "Feature Options"
+msgstr ""
+
+#: core/metaboxes.php:22
+msgid "Portfolio Options"
+msgstr ""
+
+#: core/metaboxes.php:23 core/metaboxes.php:27 core/metaboxes.php:31
+msgid "Attached Images"
+msgstr ""
+
+#: core/metaboxes.php:26
+msgid "Product Options"
+msgstr ""
+
+#: core/metaboxes.php:30
+msgid "Service Options"
+msgstr ""
+
+#: core/metaboxes.php:34
+msgid "Client Options"
+msgstr ""
+
+#: core/metaboxes.php:37
+msgid "Member Options"
+msgstr ""
+
+#: core/metaboxes.php:40
+msgid "Testimonial Options"
+msgstr ""
+
+#: core/metaboxes.php:44
+msgid "Post Options"
+msgstr ""
+
+#: core/metaboxes.php:45
+msgid "Page Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:9
+msgid "General Theme Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:10
+msgid "Options that help you manage your theme better."
+msgstr ""
+
+#: core/metadata/data_customizer.php:16
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:87
+msgid "Layout"
+msgstr ""
+
+#: core/metadata/data_customizer.php:17
+msgid ""
+"Here you can find settings that control the structure and positioning of "
+"specific elements within your website."
+msgstr ""
+
+#: core/metadata/data_customizer.php:22
+msgid "Content Areas"
+msgstr ""
+
+#: core/metadata/data_customizer.php:23
+msgid "This theme includes a few areas where you can insert cutom content."
+msgstr ""
+
+#: core/metadata/data_customizer.php:39
+msgid "Site Wide Structure"
+msgstr ""
+
+#: core/metadata/data_customizer.php:40
+msgid "Settings that control the structure and positioning of design elements."
+msgstr ""
+
+#: core/metadata/data_customizer.php:48
+msgid "Customize the appearance and behavior of the homepage elements."
+msgstr ""
+
+#: core/metadata/data_customizer.php:56 core/metadata/data_general.php:371
+msgid "Slider"
+msgstr ""
+
+#: core/metadata/data_customizer.php:57
+msgid "Customize the appearance and behavior of the slider."
+msgstr ""
+
+#: core/metadata/data_customizer.php:66 core/metadata/data_general.php:403
+#: includes/libraries/welcome-screen/sections/features.php:41
+msgid "Tagline"
+msgstr ""
+
+#: core/metadata/data_customizer.php:67
+msgid "Customize the appearance and of the homepage tagline."
+msgstr ""
+
+#: core/metadata/data_customizer.php:76 core/metadata/data_general.php:374
+msgid "Features"
+msgstr ""
+
+#: core/metadata/data_customizer.php:77
+msgid "Customize the appearance and behavior of the feature blocks."
+msgstr ""
+
+#: core/metadata/data_customizer.php:86 core/metadata/data_general.php:377
+msgid "Portfolio"
+msgstr ""
+
+#: core/metadata/data_customizer.php:87
+msgid "Customize the appearance and behavior of the portfolio."
+msgstr ""
+
+#: core/metadata/data_customizer.php:96 core/metadata/data_general.php:380
+msgid "Products"
+msgstr ""
+
+#: core/metadata/data_customizer.php:97
+msgid "Customize the appearance and behavior of the products."
+msgstr ""
+
+#: core/metadata/data_customizer.php:106 core/metadata/data_general.php:383
+msgid "Services"
+msgstr ""
+
+#: core/metadata/data_customizer.php:107
+msgid "Customize the appearance and behavior of the services."
+msgstr ""
+
+#: core/metadata/data_customizer.php:116 core/metadata/data_general.php:386
+msgid "About"
+msgstr ""
+
+#: core/metadata/data_customizer.php:117
+msgid "Customize the appearance and behavior of the about us section."
+msgstr ""
+
+#: core/metadata/data_customizer.php:126 core/metadata/data_general.php:392
+msgid "Team Members"
+msgstr ""
+
+#: core/metadata/data_customizer.php:127
+msgid "Customize the appearance and behavior of the team listing."
+msgstr ""
+
+#: core/metadata/data_customizer.php:136 core/metadata/data_general.php:395
+msgid "Testimonials"
+msgstr ""
+
+#: core/metadata/data_customizer.php:137
+msgid "Customize the appearance and behavior of the testimonials."
+msgstr ""
+
+#: core/metadata/data_customizer.php:146 core/metadata/data_general.php:389
+msgid "Clients"
+msgstr ""
+
+#: core/metadata/data_customizer.php:147
+msgid "Customize the appearance and behavior of the client listing."
+msgstr ""
+
+#: core/metadata/data_customizer.php:156 core/metadata/data_general.php:398
+msgid "Contact"
+msgstr ""
+
+#: core/metadata/data_customizer.php:157
+msgid "Customize the appearance and behavior of the contact section."
+msgstr ""
+
+#: core/metadata/data_customizer.php:166 core/metadata/data_general.php:401
+msgid "Shortcode"
+msgstr ""
+
+#: core/metadata/data_customizer.php:167
+msgid "Customize the appearance and behavior of the shortcode section."
+msgstr ""
+
+#: core/metadata/data_customizer.php:175
+msgid "Blog Posts"
+msgstr ""
+
+#: core/metadata/data_customizer.php:176
+msgid ""
+"Modify the appearance and behavior of your blog posts by enabling specific "
+"elements."
+msgstr ""
+
+#: core/metadata/data_customizer.php:183
+msgid "Typography"
+msgstr ""
+
+#: core/metadata/data_customizer.php:184
+msgid "Custom typefaces for the entire site."
+msgstr ""
+
+#: core/metadata/data_customizer.php:190
+msgid "Site Wide Content"
+msgstr ""
+
+#: core/metadata/data_customizer.php:191
+msgid ""
+"Content areas located in common areas throughout the site. You can use HTML "
+"and shortcodes here."
+msgstr ""
+
+#: core/metadata/data_customizer.php:199
+msgid ""
+"Add custom content to specific areas of the homepage. You can use HTML and "
+"shortcodes here."
+msgstr ""
+
+#: core/metadata/data_customizer.php:215
+msgid "Custom Logo"
+msgstr ""
+
+#: core/metadata/data_customizer.php:216
+msgid "Insert the URL of an image to be used as a custom logo."
+msgstr ""
+
+#: core/metadata/data_customizer.php:224
+msgid "Custom Favicon"
+msgstr ""
+
+#: core/metadata/data_customizer.php:225
+msgid "Recommended sizes are 16x16 pixels."
+msgstr ""
+
+#: core/metadata/data_customizer.php:232
+msgid "Logo Width (px)"
+msgstr ""
+
+#: core/metadata/data_customizer.php:233
+msgid "Forces the logo to have a specified width."
+msgstr ""
+
+#: core/metadata/data_customizer.php:242
+msgid "Enable Text Title?"
+msgstr ""
+
+#: core/metadata/data_customizer.php:243
+msgid "Activate this to display the site title as text."
+msgstr ""
+
+#: core/metadata/data_customizer.php:251
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: core/metadata/data_customizer.php:252
+msgid "This option can be overridden in individual pages."
+msgstr ""
+
+#: core/metadata/data_customizer.php:260
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:268
+msgid "Sticky Header"
+msgstr ""
+
+#: core/metadata/data_customizer.php:276
+msgid "Breadcrumbs"
+msgstr ""
+
+#: core/metadata/data_customizer.php:284
+msgid "Language Switcher"
+msgstr ""
+
+#: core/metadata/data_customizer.php:292
+msgid "Shopping Cart"
+msgstr ""
+
+#: core/metadata/data_customizer.php:300
+msgid "Footer Credit Link"
+msgstr ""
+
+#: core/metadata/data_customizer.php:309
+msgid "Footer Back To Top"
+msgstr ""
+
+#: core/metadata/data_customizer.php:318
+msgid "Homepage Animations"
+msgstr ""
+
+#: core/metadata/data_customizer.php:326
+msgid "Footer Text"
+msgstr ""
+
+#: core/metadata/data_customizer.php:327
+msgid "Add custom text that replaces the copyright line in the footer."
+msgstr ""
+
+#: core/metadata/data_customizer.php:336
+msgid "Social Links"
+msgstr ""
+
+#: core/metadata/data_customizer.php:337
+msgid "Enter the URL of your preferred social profiles, one per line."
+msgstr ""
+
+#: core/metadata/data_customizer.php:346
+msgid "Sidebar Position in Homepage"
+msgstr ""
+
+#: core/metadata/data_customizer.php:347
+msgid ""
+"If you set a static page to serve as the homepage, this option will be "
+"overridden by that page's settings."
+msgstr ""
+
+#: core/metadata/data_customizer.php:355
+msgid "Content Ordering"
+msgstr ""
+
+#: core/metadata/data_customizer.php:356
+msgid "Change the ordering of the various elements in the homepage."
+msgstr ""
+
+#: core/metadata/data_customizer.php:366
+msgid "Tagline Title"
+msgstr ""
+
+#: core/metadata/data_customizer.php:376
+msgid "Tagline Content"
+msgstr ""
+
+#: core/metadata/data_customizer.php:386 core/metadata/data_metaboxes.php:313
+msgid "Image"
+msgstr ""
+
+#: core/metadata/data_customizer.php:393
+msgid "Tagline Button URL"
+msgstr ""
+
+#: core/metadata/data_customizer.php:403
+msgid "Tagline Button Label"
+msgstr ""
+
+#: core/metadata/data_customizer.php:407 includes/class-antreas-theme.php:208
+msgid "Learn More"
+msgstr ""
+
+#: core/metadata/data_customizer.php:414 core/metadata/data_customizer.php:467
+#: core/metadata/data_customizer.php:517 core/metadata/data_customizer.php:575
+#: core/metadata/data_customizer.php:624 core/metadata/data_customizer.php:673
+#: core/metadata/data_customizer.php:727 core/metadata/data_customizer.php:776
+#: core/metadata/data_customizer.php:825 core/metadata/data_customizer.php:874
+#: core/metadata/data_customizer.php:930 core/metadata/data_customizer.php:980
+msgid "Show on"
+msgstr ""
+
+#: core/metadata/data_customizer.php:415 core/metadata/data_customizer.php:468
+#: core/metadata/data_customizer.php:518 core/metadata/data_customizer.php:576
+#: core/metadata/data_customizer.php:625 core/metadata/data_customizer.php:674
+#: core/metadata/data_customizer.php:728 core/metadata/data_customizer.php:777
+#: core/metadata/data_customizer.php:826 core/metadata/data_customizer.php:875
+#: core/metadata/data_customizer.php:931 core/metadata/data_customizer.php:981
+msgid ""
+"show this section only on these pages. You can even type in post ids (e.g. "
+"#123)"
+msgstr ""
+
+#: core/metadata/data_customizer.php:423 core/metadata/data_customizer.php:476
+#: core/metadata/data_customizer.php:526 core/metadata/data_customizer.php:584
+#: core/metadata/data_customizer.php:633 core/metadata/data_customizer.php:682
+#: core/metadata/data_customizer.php:736 core/metadata/data_customizer.php:785
+#: core/metadata/data_customizer.php:834 core/metadata/data_customizer.php:883
+#: core/metadata/data_customizer.php:939 core/metadata/data_customizer.php:989
+msgid "Exclude from"
+msgstr ""
+
+#: core/metadata/data_customizer.php:424 core/metadata/data_customizer.php:477
+#: core/metadata/data_customizer.php:527 core/metadata/data_customizer.php:585
+#: core/metadata/data_customizer.php:634 core/metadata/data_customizer.php:683
+#: core/metadata/data_customizer.php:737 core/metadata/data_customizer.php:786
+#: core/metadata/data_customizer.php:835 core/metadata/data_customizer.php:884
+#: core/metadata/data_customizer.php:940 core/metadata/data_customizer.php:990
+msgid ""
+"this section will not be displayed on these pages. You can even type in "
+"post ids (e.g. #123)"
+msgstr ""
+
+#: core/metadata/data_customizer.php:435
+msgid "Slider Height (px)"
+msgstr ""
+
+#: core/metadata/data_customizer.php:443
+msgid "Slider Transition Speed (ms)"
+msgstr ""
+
+#: core/metadata/data_customizer.php:451
+msgid "Slider Timeout (ms)"
+msgstr ""
+
+#: core/metadata/data_customizer.php:459
+msgid "Slider Transition Effect"
+msgstr ""
+
+#: core/metadata/data_customizer.php:489 core/metadata/data_customizer.php:538
+#: core/metadata/data_customizer.php:596 core/metadata/data_customizer.php:645
+#: core/metadata/data_customizer.php:694 core/metadata/data_customizer.php:748
+#: core/metadata/data_customizer.php:797 core/metadata/data_customizer.php:846
+#: core/metadata/data_customizer.php:895 core/metadata/data_customizer.php:951
+#: core/metadata/data_customizer.php:1008
+msgid "Section Title"
+msgstr ""
+
+#: core/metadata/data_customizer.php:499 core/metadata/data_customizer.php:548
+#: core/metadata/data_customizer.php:606 core/metadata/data_customizer.php:655
+#: core/metadata/data_customizer.php:704 core/metadata/data_customizer.php:758
+#: core/metadata/data_customizer.php:807 core/metadata/data_customizer.php:856
+#: core/metadata/data_customizer.php:905 core/metadata/data_customizer.php:961
+#: core/metadata/data_customizer.php:1018
+msgid "Section Subtitle"
+msgstr ""
+
+#: core/metadata/data_customizer.php:509
+msgid "Features Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:558
+msgid "Portfolio Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:566
+msgid "Enable Related Portfolio Items"
+msgstr ""
+
+#: core/metadata/data_customizer.php:567
+msgid ""
+"Shows portfolio items belonging to the same category at the end of each "
+"portfolio item."
+msgstr ""
+
+#: core/metadata/data_customizer.php:616
+msgid "Product Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:665
+msgid "Services Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:714
+msgid "About Pages"
+msgstr ""
+
+#: core/metadata/data_customizer.php:715
+msgid "Select the pages that will be displayed as columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:768
+msgid "Team Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:817
+msgid "Testimonials Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:866
+msgid "Clients Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:920
+msgid "Contact content"
+msgstr ""
+
+#: core/metadata/data_customizer.php:921
+msgid "Add content for this contact section."
+msgstr ""
+
+#: core/metadata/data_customizer.php:971
+msgid "Section content"
+msgstr ""
+
+#: core/metadata/data_customizer.php:972
+msgid "Add content for this section. You can even use shortcodes."
+msgstr ""
+
+#: core/metadata/data_customizer.php:1000
+msgid "Enable Posts On Homepage"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1028
+msgid "Posts Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1036
+msgid "Content In Post Listings"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1044
+msgid "Enable Post Dates"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1052
+msgid "Enable Post Authors"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1060
+msgid "Enable Comment Count"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1068
+msgid "Enable Post Categories"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1076
+msgid "Enable Post Tags"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1085
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:305
+msgid "Font Size"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1093
+#: core/metadata/data_customizer.php:1145
+msgid "Headings & Titles"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1101
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1109
+#: core/metadata/data_customizer.php:1171
+msgid "Body Text"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1117
+msgid "Load Font Variants"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1118
+msgid ""
+"Loads additional font variations for the selected body typeface, if "
+"available. This will result in better-looking bold/light text."
+msgstr ""
+
+#: core/metadata/data_customizer.php:1128
+msgid "Used in buttons, headings, and other prominent elements."
+msgstr ""
+
+#: core/metadata/data_customizer.php:1137
+msgid "Used in minor design elements and backgrounds."
+msgstr ""
+
+#: core/metadata/data_customizer.php:1154
+msgid "Widget Titles"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1179
+msgid "Hyperlinks"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1187
+msgid "Subfooter background color"
+msgstr ""
+
+#: core/metadata/data_customizer.php:1195
+msgid "Footer background color"
+msgstr ""
+
+#: core/metadata/data_general.php:9
+msgid "(Select a Slider...)"
+msgstr ""
+
+#: core/metadata/data_general.php:17
+msgid "(Revolution Slider is not Active)"
+msgstr ""
+
+#: core/metadata/data_general.php:27
+msgid "To The Left"
+msgstr ""
+
+#: core/metadata/data_general.php:28
+msgid "Centered"
+msgstr ""
+
+#: core/metadata/data_general.php:29
+msgid "To The Right"
+msgstr ""
+
+#: core/metadata/data_general.php:40
+msgid "Light Scheme"
+msgstr ""
+
+#: core/metadata/data_general.php:41
+msgid "Dark Scheme"
+msgstr ""
+
+#: core/metadata/data_general.php:53
+msgid "Standard Fonts"
+msgstr ""
+
+#: core/metadata/data_general.php:62
+msgid "Serif Fonts"
+msgstr ""
+
+#: core/metadata/data_general.php:103
+msgid "Sans Serif Fonts"
+msgstr ""
+
+#: core/metadata/data_general.php:182
+msgid "Display Fonts"
+msgstr ""
+
+#: core/metadata/data_general.php:216
+msgid "Handwritten Fonts"
+msgstr ""
+
+#: core/metadata/data_general.php:254 core/metadata/data_general.php:559
+msgid "Normal"
+msgstr ""
+
+#: core/metadata/data_general.php:255
+msgid "Small"
+msgstr ""
+
+#: core/metadata/data_general.php:256
+msgid "Medium"
+msgstr ""
+
+#: core/metadata/data_general.php:257
+msgid "Large"
+msgstr ""
+
+#: core/metadata/data_general.php:293
+msgid "Full Width"
+msgstr ""
+
+#: core/metadata/data_general.php:294
+msgid "Boxed"
+msgstr ""
+
+#: core/metadata/data_general.php:323
+msgid "No sidebar"
+msgstr ""
+
+#: core/metadata/data_general.php:324
+msgid "No sidebar (narrow)"
+msgstr ""
+
+#: core/metadata/data_general.php:325
+msgid "Right sidebar"
+msgstr ""
+
+#: core/metadata/data_general.php:326
+msgid "Left sidebar"
+msgstr ""
+
+#: core/metadata/data_general.php:327
+msgid "Two opposite sidebars"
+msgstr ""
+
+#: core/metadata/data_general.php:328
+msgid "Two left sidebars"
+msgstr ""
+
+#: core/metadata/data_general.php:329
+msgid "Two right sidebars"
+msgstr ""
+
+#: core/metadata/data_general.php:337
+msgid "Fade"
+msgstr ""
+
+#: core/metadata/data_general.php:338
+msgid "Horizontal Flip"
+msgstr ""
+
+#: core/metadata/data_general.php:339
+msgid "Vertical Flip"
+msgstr ""
+
+#: core/metadata/data_general.php:340
+msgid "Shuffle"
+msgstr ""
+
+#: core/metadata/data_general.php:341
+msgid "Tile Slide"
+msgstr ""
+
+#: core/metadata/data_general.php:342
+msgid "Tile Blind"
+msgstr ""
+
+#: core/metadata/data_general.php:368
+msgid "Featured Posts"
+msgstr ""
+
+#: core/metadata/data_general.php:404
+msgid "Page Contents"
+msgstr ""
+
+#: core/metadata/data_general.php:454 core/metadata/data_general.php:549
+msgid "None"
+msgstr ""
+
+#: core/metadata/data_general.php:455
+msgid "In The Slider"
+msgstr ""
+
+#: core/metadata/data_general.php:456
+msgid "In The Featured Boxes"
+msgstr ""
+
+#: core/metadata/data_general.php:465 core/metadata/data_general.php:491
+msgid "Two Columns"
+msgstr ""
+
+#: core/metadata/data_general.php:466 core/metadata/data_general.php:492
+msgid "Three Columns"
+msgstr ""
+
+#: core/metadata/data_general.php:467 core/metadata/data_general.php:493
+msgid "Four Columns"
+msgstr ""
+
+#: core/metadata/data_general.php:468 core/metadata/data_general.php:494
+msgid "Five Columns"
+msgstr ""
+
+#: core/metadata/data_general.php:490
+msgid "One Column"
+msgstr ""
+
+#: core/metadata/data_general.php:503
+msgid "Normal Header"
+msgstr ""
+
+#: core/metadata/data_general.php:504
+msgid "Minimal Header"
+msgstr ""
+
+#: core/metadata/data_general.php:505
+msgid "No Header"
+msgstr ""
+
+#: core/metadata/data_general.php:514
+msgid "Normal Title"
+msgstr ""
+
+#: core/metadata/data_general.php:515
+msgid "Minimal Title"
+msgstr ""
+
+#: core/metadata/data_general.php:516
+msgid "No Title"
+msgstr ""
+
+#: core/metadata/data_general.php:525
+msgid "Normal Title Area"
+msgstr ""
+
+#: core/metadata/data_general.php:526
+msgid "Large Title Area"
+msgstr ""
+
+#: core/metadata/data_general.php:535
+msgid "Normal Footer"
+msgstr ""
+
+#: core/metadata/data_general.php:536
+msgid "Minimal Footer"
+msgstr ""
+
+#: core/metadata/data_general.php:537
+msgid "No Footer"
+msgstr ""
+
+#: core/metadata/data_general.php:546
+msgid "Featured image"
+msgstr ""
+
+#: core/metadata/data_general.php:547
+msgid "Gallery of attached images"
+msgstr ""
+
+#: core/metadata/data_general.php:548
+msgid "Slideshow of attached images"
+msgstr ""
+
+#: core/metadata/data_general.php:560
+msgid "Highlighted"
+msgstr ""
+
+#: core/metadata/data_general.php:561
+msgid "Disabled"
+msgstr ""
+
+#: core/metadata/data_general.php:572
+msgid "Show Excerpt"
+msgstr ""
+
+#: core/metadata/data_general.php:573
+msgid "Show Full Content"
+msgstr ""
+
+#: core/metadata/data_general.php:574
+msgid "Do Not Show"
+msgstr ""
+
+#: core/metadata/data_general.php:585
+msgid "Vertical"
+msgstr ""
+
+#: core/metadata/data_general.php:586
+msgid "Horizontal"
+msgstr ""
+
+#: core/metadata/data_general.php:598
+msgid "Name"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:10
+msgid "Sidebar Position"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:11
+msgid "Determines the location of the sidebar by default."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:21
+msgid "Page Slider"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:22
+msgid "Sets a slider for this page. Requires the %s plugin."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:32
+msgid "Page Header"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:33
+msgid "Specifies the format of the header for this page."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:41
+msgid "Page Title"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:42
+msgid "Specifies the format of the title heading for this page."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:50
+msgid "Page Title Area"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:51
+msgid "Specifies the format of the title area for this page."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:59
+msgid "Title Overlay Color"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:60
+msgid "specify the overlay color for this page title"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:67
+msgid "Title Overlay Transparency"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:68
+msgid "specify the overlay transparency for this page title"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:77
+msgid "Page Footer"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:78
+msgid "Specifies the format of the footer for this page."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:87
+msgid "Full Width Page"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:88
+msgid ""
+"Allows the page content to fill the entire width of the screen. Useful for "
+"creating full width rows with backgrounds."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:104
+msgid "Slide Image"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:105
+msgid "Add a complementary image to the slide."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:112
+msgid "Caption Position"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:113
+msgid "Determines where the caption of the slide is positioned."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:121
+msgid "Color Scheme"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:122
+msgid "Determines the color scheme used in the caption."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:130
+msgid "Hide Slide title"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:131
+msgid "Removes the title of this slide."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:138
+msgid "Slide title font size"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:139
+msgid "specify the slide title font size in pixels"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:147
+msgid "Slide content font size"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:148
+msgid "specify the slide content font size in pixels"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:157
+msgid "First Button Text"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:158
+msgid "Sets the text of the first button of this slide."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:165
+msgid "First Button URL"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:166
+msgid ""
+"Specify a URL for the first button of this slide. Requires a valid "
+"destination URL."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:173
+msgid "Second Button Text"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:174
+msgid "Sets the text of the second button of this slide."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:181
+msgid "Second Button URL"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:182
+msgid ""
+"Specify a URL for the second button of this slide. Requires a valid "
+"destination URL."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:188
+msgid "Overlay Color"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:189
+msgid "specify the overlay color for this slide"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:196
+msgid "Overlay Transparency"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:197
+msgid "specify the overlay transparency for this slide"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:215
+msgid "Feature Icon"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:216
+msgid "Sets an icon to be used as the featured element."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:223 core/metadata/data_metaboxes.php:345
+msgid "Target URL"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:224
+msgid "Sets a destination URL for this feature."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:240 core/metadata/data_metaboxes.php:274
+#: core/metadata/data_metaboxes.php:300
+msgid "Featured Item"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:241 core/metadata/data_metaboxes.php:275
+#: core/metadata/data_metaboxes.php:301
+msgid "Specifies whether this item appears in the homepage."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:248 core/metadata/data_metaboxes.php:282
+#: core/metadata/data_metaboxes.php:336
+msgid "Media Layout"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:249 core/metadata/data_metaboxes.php:283
+#: core/metadata/data_metaboxes.php:337
+msgid ""
+"Specifies how the images attached to this item should be displayed. The "
+"featured image will be excluded from the list of elements."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:257
+msgid "Custom URL"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:258
+msgid "Sets a custom URL for this portfolio project."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:308
+msgid "Service Icon Type"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:309
+msgid "select to use icon or image as the service preview."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:312
+msgid "Font Awesome"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:320
+msgid "Service Icon"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:321
+msgid "Sets an icon to be used as the service preview."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:328
+msgid "Service Image"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:329
+msgid "Sets an image to be used as the service preview."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:346
+msgid "Sets a destination URL for this service."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:362
+msgid "Destination URL"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:363
+msgid "Links the client to a specific URL."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:379
+msgid "Featured Member"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:380
+msgid "Specifies whether this member appears in the homepage."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:387
+msgid "Member Description"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:388
+msgid "Specifies a small description for this team member."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:395
+msgid "Social Profiles"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:396
+msgid "Enter the URL of the social profiles for this team member."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:413
+msgid "Testimonial Description"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:414
+msgid "Specifies a small description for this testimonial."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:430
+msgid "Show In Homepage"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:431
+msgid "Specifies whether this item is featured in the homepage."
+msgstr ""
+
+#: footer.php:16
+msgid "Back To Top"
+msgstr ""
+
+#: includes/class-antreas-theme.php:25 includes/class-antreas-theme.php:136
+#: includes/class-antreas-theme.php:138
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/class-antreas-theme.php:26
+msgid ""
+"Clicking the button below will add content, widgets and set static front "
+"page to your WordPress installation. Click advanced to customize the import "
+"process. This procces might take up to 2 min. Please don't close the window."
+msgstr ""
+
+#: includes/class-antreas-theme.php:32
+msgid "Install: CPO Companion"
+msgstr ""
+
+#: includes/class-antreas-theme.php:32
+msgid "Activate: CPO Companion"
+msgstr ""
+
+#: includes/class-antreas-theme.php:33
+msgid ""
+"It is highly recommended that you install the CPO Content Types plugin. It "
+"will help you manage all the special content types that this theme supports."
+msgstr ""
+
+#: includes/class-antreas-theme.php:39
+msgid "Install: Modula"
+msgstr ""
+
+#: includes/class-antreas-theme.php:39
+msgid "Activate: Modula"
+msgstr ""
+
+#: includes/class-antreas-theme.php:40
+msgid "It is highly recommended that you install the Modula plugin."
+msgstr ""
+
+#: includes/class-antreas-theme.php:102
+msgid "Recomended Actions"
+msgstr ""
+
+#: includes/class-antreas-theme.php:103
+msgid "We are social"
+msgstr ""
+
+#: includes/class-antreas-theme.php:104
+msgid "Recomended Plugins"
+msgstr ""
+
+#: includes/class-antreas-theme.php:122
+msgid "Import Content"
+msgstr ""
+
+#: includes/class-antreas-theme.php:123
+msgid "Import Widgets"
+msgstr ""
+
+#: includes/class-antreas-theme.php:124
+msgid "Import Options"
+msgstr ""
+
+#: includes/class-antreas-theme.php:128
+msgid "CPO Companion"
+msgstr ""
+
+#: includes/class-antreas-theme.php:129
+msgid "Modula Gallery"
+msgstr ""
+
+#: includes/class-antreas-theme.php:139
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-antreas-theme.php:150
+msgid "Plugins"
+msgstr ""
+
+#: includes/class-antreas-theme.php:158
+msgid "Demo Content"
+msgstr ""
+
+#: includes/class-antreas-theme.php:205
+msgid "Antreas is a theme with great potential"
+msgstr ""
+
+#: includes/class-antreas-theme.php:206
+msgid "this tagline can be easily added anywhere on your site"
+msgstr ""
+
+#: includes/class-antreas-theme.php:217
+msgid "Why choose us"
+msgstr ""
+
+#: includes/class-antreas-theme.php:218
+msgid "show & tell"
+msgstr ""
+
+#: includes/class-antreas-theme.php:222
+msgid "See our Online Portfolio"
+msgstr ""
+
+#: includes/class-antreas-theme.php:223
+msgid "our work"
+msgstr ""
+
+#: includes/class-antreas-theme.php:228
+msgid "Our Featured Products"
+msgstr ""
+
+#: includes/class-antreas-theme.php:229
+msgid "our shop"
+msgstr ""
+
+#: includes/class-antreas-theme.php:233
+msgid "What we can do for you"
+msgstr ""
+
+#: includes/class-antreas-theme.php:234
+msgid "our services"
+msgstr ""
+
+#: includes/class-antreas-theme.php:238
+msgid "About us"
+msgstr ""
+
+#: includes/class-antreas-theme.php:239
+msgid "who we are"
+msgstr ""
+
+#: includes/class-antreas-theme.php:243
+msgid "Meet our team"
+msgstr ""
+
+#: includes/class-antreas-theme.php:244
+msgid "we are dedicated"
+msgstr ""
+
+#: includes/class-antreas-theme.php:248
+msgid "What people say about us"
+msgstr ""
+
+#: includes/class-antreas-theme.php:249
+msgid "our testimonials"
+msgstr ""
+
+#: includes/class-antreas-theme.php:253
+msgid "Some of our best clients"
+msgstr ""
+
+#: includes/class-antreas-theme.php:254
+msgid "section subtitle"
+msgstr ""
+
+#: includes/class-antreas-theme.php:258
+msgid "Contact us"
+msgstr ""
+
+#: includes/class-antreas-theme.php:259
+msgid "get in touch"
+msgstr ""
+
+#: includes/class-antreas-theme.php:262
+msgid "Other Information"
+msgstr ""
+
+#: includes/class-antreas-theme.php:267
+msgid "Recent blog posts"
+msgstr ""
+
+#: includes/class-antreas-theme.php:268
+msgid "our blog"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:257
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:101
+msgid "Add"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:258
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:276
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:110
+msgid "Upload image"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:259
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:242
+msgid "Row"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-content-backup.php:221
+msgid "This page contains the content created by the customizer."
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:121
+#. Translators: %s is the plugin name.
+msgid "Install: %s"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:123
+#. Translators: %s is the plugin name.
+msgid "Please install %s in order to create the demo content."
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:127
+#. Translators: %s is the plugin name
+msgid "Activate: %s"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:129
+#. Translators: %s is the plugin name
+msgid "Please activate %s in order to create the demo content."
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:37
+#: includes/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:50
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:190
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:203
+msgid "Not allowed"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:61
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:214
+msgid "Class does not exist"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/class-epsilon-customizer.php:479
+msgid "Customize"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-color-coded-categories.php:112
+msgid ""
+"This color will affect category related elements such as links, titles, "
+"etc. (defined by your theme)"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:57
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:129
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:56
+msgid "Close"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:81
+msgid "Fields"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:84
+msgid "Styles"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:278
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:112
+msgid "Recommended resolution:"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:288
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:126
+msgid "Select File"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:377
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-color-picker.php:82
+msgid "(clear)"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:122
+msgid "Default"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-layouts.php:201
+msgid "Edit column size"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:590
+#. Translators: Section limit
+msgid "Limit: "
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:591
+msgid "sections"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:250
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-upsell.php:70
+msgid "See what's in the PRO version"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:315
+msgid "Background Color"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:329
+msgid "Background Image"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:344
+msgid "Background Position"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:350
+msgid "Top Left"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:351
+msgid "Top"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:352
+msgid "Top Right"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:353
+msgid "Left"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:354
+msgid "Center"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:355
+msgid "Right"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:356
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:357
+msgid "Bottom"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:358
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:367
+msgid "Background Size"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:373
+msgid "Cover"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:374
+msgid "Contain"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:375
+msgid "Initial"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:403
+msgid "Alignment"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:430
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:457
+msgid "Column Stretch"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:484
+msgid "Column Spacing"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:507
+msgid "Column Group"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:596
+msgid "Add a Section"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:602
+msgid "Search sections"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:603
+msgid "Search sections &hellip;"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:606
+msgid "Clear Results"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:608
+msgid "The search results will be updated as you type."
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:613
+msgid "Sections"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:614
+msgid "Integrations"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:272
+msgid "Theme default"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:314
+msgid "Line Height"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:323
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:51
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:64
+msgid "Help"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:118
+msgid "Review this theme on w.org"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:279
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:345
+msgid "Install"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:283
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:349
+msgid "Activate"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:287
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:353
+msgid "Update"
+msgstr ""
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:291
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:357
+msgid "Deactivate"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:295
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:299
+#: includes/libraries/welcome-screen/sections/recommended-actions.php:78
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:297
+msgid "Activating"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:360
+#. Translators: Notice Title
+msgid "Welcome to %1$s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:364
+#. Translators: Notice
+msgid ""
+"Welcome! Thank you for choosing %3$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:371
+#. Translators: Notice URL
+msgid "Get started with %1$s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:390
+#. Translators: Menu Title
+msgid "About %1$s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:424
+#. Translators: Welcome Screen Title.
+msgid "Welcome to %1$s - v"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:430
+#. Translators: Welcome Screen Description.
+msgid ""
+"%1$s is now installed and ready to use! Get ready to build something "
+"beautiful. We hope you enjoy it! We want to make sure you have the best "
+"experience using %1$s and that is why we gathered here all the necessary "
+"information for you. We hope you will enjoy using %1$s, as much as we enjoy "
+"creating great products."
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:499
+msgid "Getting Started"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:505
+msgid "Recommended Actions"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:511
+msgid "Recommended Plugins"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:517
+msgid "Support"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:523
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:25
+#. Translators: Registration
+msgid "Registration"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:568
+msgid "Install and Activate"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:589
+msgid "Activate now"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:595
+msgid "Deactivate now"
+msgstr ""
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:785
+msgid "Blog"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:27
+#. Translators: Enter Key field label
+msgid "Enter your theme license key."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:29
+#. Translators: License Key
+msgid "License Key"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:31
+#. Translators: Action
+msgid "License Action"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:33
+#. Translators: Deactivate License Label
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:35
+#. Translators: Activate License Label
+msgid "Activate License"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:37
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:61
+#. Translators: Unknown License Label
+#. Translators: Unknown license key
+msgid "License status is unknown."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:39
+#. Translators: Renewal Label
+msgid "Renew?"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:41
+#. Translators: Unlimited activations
+msgid "unlimited"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:43
+#. Translators: Active key
+msgid "License key is active."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:45
+#. Translators: expires
+msgid "Expires %s."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:47
+#. Translators: websites activated
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:49
+#. Translators: License expired
+msgid "License key expired %s."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:51
+#. Translators: Expired License Key
+msgid "License key has expired."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:53
+#. Translators: Match failed
+msgid "License keys do not match."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:55
+#. Translators: Inactive license
+msgid "License is inactive."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:57
+#. Translators: Disabled license
+msgid "License key is disabled."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:59
+#. Translators: Inactive website
+msgid "Site is inactive."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:65
+#. Translators: license sites, title, update link
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4$s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:11
+msgid "Improved Slider Options"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:12
+msgid "Add more slides, control the appearance & position of slides."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:17
+msgid "WooCommerce Support"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:18
+msgid "Create a WooCommerce powered shop. Supports WooCommerce v3.x and upwards"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:23
+msgid "Reorder Homepage Sections"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:24
+#: includes/libraries/welcome-screen/sections/features.php:42
+msgid "Re-order your site's front-page sections in any way you want."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:29
+msgid "Custom Color Schemes & Color Controls"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:30
+msgid "Easily change your site's color schemes."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:35
+msgid "Custom Typography Controls"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:36
+msgid "Want a different font family? No problem. Just an upgrade away."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:43
+msgid "Minimal"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:44
+msgid "Improved"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:47
+msgid "Extend the Features Section"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:48
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section "
+"Description & Features Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:53
+msgid "Extend the Portfolio Section "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:54
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section "
+"Description, Portfolio Columns & Related Portfolio Images"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:59
+msgid "Extend the Services Section "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:60
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section "
+"Description and Services Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:65
+msgid "Extend the Team Members Section"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:66
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section "
+"Description and Team Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:71
+msgid "Extend the Testimonials Section "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:72
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section "
+"Description and Testimonials Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:77
+msgid "Extend the Clients Section "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:78
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Description and "
+"Clients Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:83
+msgid "Dedicated Support Team"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:88
+msgid "Critical security updates "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:94
+msgid "Future feature updates "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:105
+msgid "Lite"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:106
+msgid "PRO"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:129
+msgid "Get The Pro Version Now!"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:11
+msgid "Implement recommended actions"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:12
+msgid "Make sure you implement all of our recommended actions."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:15
+msgid "No recommended actions left to perform"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:18
+msgid "Check recommended actions"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:26
+msgid "Check our documentation"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:27
+msgid ""
+"Even if you're a long-time WordPress user, we believe you should give our "
+"docs a read."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:30
+msgid "Full documentation"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:35
+msgid "Customize everything"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:36
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:38
+msgid "Start Customising your theme"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/recommended-plugins.php:25
+msgid "Recommended"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/recommended-plugins.php:30
+msgid "Version: "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:5
+#: includes/libraries/welcome-screen/sections/support.php:8
+msgid "Contact Support"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:6
+msgid ""
+"We offer excellent support through our advanced ticketing system. Make sure "
+"to register your purchase before contacting support!"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:13
+msgid "Documentation"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:14
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and "
+"outs of using Antreas."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:16
+msgid "See our full documentation"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Antreas Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.demos.machothemes.com/antreas"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A multipurpose WordPress theme perfect for agencies and online businesses."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Macho Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://machothemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Services */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sitemap */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Submenu */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Team */ ?>"
+msgstr ""

@@ -1,0 +1,49 @@
+.topbar {
+    display: block;
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    line-height: 34px;
+	font-size: 0.85em;
+	border-top: 4px solid #333333;
+}
+
+.header {
+    position: relative;
+    background: #fff;
+    width: 100%;
+    padding: 10px 0;
+	box-shadow: 0 1px 6px rgba(0,0,0,.09);
+	z-index: 101;
+}
+
+.header > .container {
+	position: relative;
+}
+
+.header .logo-link:hover,
+.header .logo-link:focus {
+    text-decoration: none;
+}
+
+.header .logo-img {
+	display: block;
+}
+
+.header .site-title {
+    display: inline-block;
+    font-size: 2.5em;
+	margin: 0;
+	line-height: 1.6;
+}
+
+/* Sticky Header */
+.cpo-sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+	z-index: 999997;
+}
+
+.logged-in.admin-bar .cpo-sticky {
+	top: 32px;
+}

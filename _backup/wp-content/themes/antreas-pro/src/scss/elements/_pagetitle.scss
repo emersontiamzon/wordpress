@@ -1,0 +1,54 @@
+.pagetitle {
+	overflow: hidden;
+	position: relative;
+	background: rgba(0, 0, 0, 0.4);
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	padding: 90px 0;
+}
+
+body.titlearea-large .pagetitle {
+	height: 55vh;
+	display: flex;
+	align-items: center; 
+}
+
+body.has-post-thumbnail .pagetitle{
+   background-color: #222;
+}
+
+.pagetitle .container{
+   position: relative;
+}
+
+.pagetitle .pagetitle-title {
+   margin: 0;
+   font-size: 2.5em;
+}
+
+.pagetitle .pagetitle__overlay{
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   background-color: #000;
+   opacity: 0.4;
+}
+
+.banner {
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    max-height: 500px;
+}
+
+.banner .banner-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    line-height: 0;
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,25 @@
+.social {
+    float: right;
+    text-align: right;
+    padding: 0;
+    width: auto;
+}
+
+.social .social-profile {
+    display: block;
+    position: relative;
+    float: left;
+    color: #444;
+    margin: 0;
+    width: 30px;
+    font-size: 14px;
+	text-align: center;
+}
+
+.social .social-profile .social-title {
+    display: none;
+}
+
+.social .social-profile:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,3126 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Regina\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 07:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: template-parts/content-single.php:42 template-parts/content.php:15
+msgid "  -  in"
+msgstr ""
+
+#: includes/framework/framework-extra.php:973
+msgid " Comments"
+msgstr ""
+
+#: includes/class-regina.php:144
+msgid " is social :"
+msgstr ""
+
+#: footer.php:114
+msgid " Regina. All Rights Reserved."
+msgstr ""
+
+#: includes/class-regina-customizer.php:231
+msgid "\"Book Appointment\" text in nav."
+msgstr ""
+
+#: template-parts/content-single.php:56 template-parts/content.php:29
+msgid "% Comment"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:605
+#, php-format
+msgid "%1$s &#8220;%2$s&#8221; already exists."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:127
+#: includes/framework/panels/custom-post-types.php:17
+#: includes/framework/panels/custom-post-types.php:86
+#: includes/framework/panels/custom-post-types.php:154
+#: includes/framework/panels/custom-post-types.php:270
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:96
+#: includes/framework/panels/custom-post-types.php:65
+#: includes/framework/panels/custom-post-types.php:134
+#: includes/framework/panels/custom-post-types.php:202
+#: includes/framework/panels/custom-post-types.php:318
+#, php-format
+msgid "%s draft updated."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:92
+#: includes/framework/panels/custom-post-types.php:61
+#: includes/framework/panels/custom-post-types.php:130
+#: includes/framework/panels/custom-post-types.php:198
+#: includes/framework/panels/custom-post-types.php:314
+#, php-format
+msgid "%s published."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:91
+#: includes/framework/panels/custom-post-types.php:60
+#: includes/framework/panels/custom-post-types.php:129
+#: includes/framework/panels/custom-post-types.php:197
+#: includes/framework/panels/custom-post-types.php:313
+#, php-format
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:93
+#: includes/framework/panels/custom-post-types.php:62
+#: includes/framework/panels/custom-post-types.php:131
+#: includes/framework/panels/custom-post-types.php:199
+#: includes/framework/panels/custom-post-types.php:315
+#, php-format
+msgid "%s saved."
+msgstr ""
+
+#: includes/framework/panels/custom-post-types.php:64
+#: includes/framework/panels/custom-post-types.php:133
+#: includes/framework/panels/custom-post-types.php:201
+#: includes/framework/panels/custom-post-types.php:317
+#, php-format
+msgid "%s scheduled for: %s."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:95
+#, php-format
+msgid "%s scheduled for: <strong>%s</strong>."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:94
+#: includes/framework/panels/custom-post-types.php:63
+#: includes/framework/panels/custom-post-types.php:132
+#: includes/framework/panels/custom-post-types.php:200
+#: includes/framework/panels/custom-post-types.php:316
+#, php-format
+msgid "%s submitted."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:87
+#: includes/framework/options/class.macho-post-type.php:90
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:124
+#: includes/framework/options/class.macho-post-type.php:126
+#: includes/framework/options/class.macho-taxonomy.php:91
+#: includes/framework/panels/custom-post-types.php:14
+#: includes/framework/panels/custom-post-types.php:16
+#: includes/framework/panels/custom-post-types.php:83
+#: includes/framework/panels/custom-post-types.php:85
+#: includes/framework/panels/custom-post-types.php:151
+#: includes/framework/panels/custom-post-types.php:153
+#: includes/framework/panels/custom-post-types.php:267
+#: includes/framework/panels/custom-post-types.php:269
+#, php-format
+msgid "%ss"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:334
+msgid "- Select -"
+msgstr ""
+
+#: template-parts/content-single.php:56 template-parts/content.php:29
+#: includes/framework/framework-extra.php:975
+msgid "1 Comment"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:84
+msgid "404 - Page not Found"
+msgstr ""
+
+#: includes/framework/framework-extra.php:450
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:14
+msgid "[MT] - Contact Info"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:9
+msgid "[MT] User Social Media"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:183
+msgid "_self = open in same window <br />_blank = open in new window."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:702
+msgid "_self = open in same window while _blank = open in new window."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:561
+msgid ""
+"_self means it will open in the same window while _blank means a new window"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:1141
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:10
+msgid "A widget that displays contact information. Designed for footer"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:165
+msgid "Accordion"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:179
+msgid "Accordion Text"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:174
+msgid "Accordion Title"
+msgstr ""
+
+#: includes/custom-controls/class-regina-pro-install-plugin.php:52
+msgid "Activate"
+msgstr ""
+
+#. %1$s: plugin name
+#: includes/libraries/class-regina-notify-system.php:43
+#, php-format
+msgid "Activate: %1$s"
+msgstr ""
+
+#: includes/custom-controls/class-regina-pro-install-plugin.php:56
+msgid "Activating ..."
+msgstr ""
+
+#: includes/class-regina-customizer.php:217
+msgid "Add a \"Book Appointment\" URL in your main navigation menu."
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:170
+msgid "Add Accordion Item"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:22
+msgid "Add Column"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:903
+msgid "Add List Item"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:128
+#: includes/framework/panels/custom-post-types.php:18
+#: includes/framework/panels/custom-post-types.php:87
+#: includes/framework/panels/custom-post-types.php:155
+#: includes/framework/panels/custom-post-types.php:271
+msgid "Add New"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:129
+#: includes/framework/options/class.macho-taxonomy.php:101
+#: includes/framework/panels/custom-post-types.php:19
+#: includes/framework/panels/custom-post-types.php:88
+#: includes/framework/panels/custom-post-types.php:156
+#: includes/framework/panels/custom-post-types.php:272
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:102
+#, php-format
+msgid "Add New %s Name"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:252
+msgid "Add New Award"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:124
+msgid "Add New Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:214
+msgid "Add new social platform"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:104
+#, php-format
+msgid "Add or remove %ss"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:636
+msgid "Add Pricing Table"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-group-field.php:39
+msgid "Add Row"
+msgstr ""
+
+#: includes/class-regina-customizer.php:522
+msgid "Add Slides"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-gallery-field.php:28
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2308
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:133
+#: includes/framework/options/class.macho-taxonomy.php:95
+#: includes/framework/panels/custom-post-types.php:23
+#: includes/framework/panels/custom-post-types.php:92
+#: includes/framework/panels/custom-post-types.php:160
+#: includes/framework/panels/custom-post-types.php:276
+#, php-format
+msgid "All %ss"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:179
+msgid "All done."
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-export-field.php:70
+msgid "An unknown error occured!"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:135
+msgid "Appointment Button"
+msgstr ""
+
+#: footer.php:30
+msgid "Appointment Date"
+msgstr ""
+
+#: functions.php:290
+msgid "Appointment Date: "
+msgstr ""
+
+#: includes/class-regina-customizer.php:1053
+msgid "Archive header description"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1037
+msgid "Archive Header Image"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1104
+msgid "Archive Sidebar Position"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:472
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:318
+msgid "as a new user:"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:268
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:326
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/class-regina-customizer.php:947
+msgid "Author Header Image"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1358
+msgid "Author info box on single blog post"
+msgstr ""
+
+#: includes/class-regina-customizer.php:999
+msgid "Author Sidebar Position"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1550
+msgid "Autoplay related carousel ?"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:256
+msgid "Award Logo"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:261
+msgid "Award Name"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:247
+msgid "Awards"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:272
+msgid "Background Color"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:770
+msgid "Bar color"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:508
+msgid "Block"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:282
+msgid "Blog"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:186
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/class-regina-customizer.php:682
+msgid "Blog settings"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:13
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/class-regina-customizer.php:714
+msgid "Blog: Archives Options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:706
+msgid "Blog: Author Options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:690
+msgid "Blog: Categories Options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:722
+msgid "Blog: Search Options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:730
+msgid "Blog: Single Options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:698
+msgid "Blog: Tags Options"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:344
+msgid "Blue"
+msgstr ""
+
+#: front-page.php:11 includes/class-regina-customizer.php:224
+#: includes/class-regina-customizer.php:640
+#: template-parts/content-single-member.php:78
+#: template-parts/header/header-v1.php:44
+#: template-parts/header/header-v2.php:45
+#: template-parts/header/header-v3.php:45
+msgid "Book Appointment"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:240
+msgid "Book Appointment Button Label"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:253
+msgid "Book Appointment Button URL"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1975
+msgid "Booking Form"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:262
+#: includes/libraries/macho-shortcode-manager/config.php:395
+msgid "Bottom Margin"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:123
+msgid "Bottom Margin In Pixels"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1402
+msgid "Breadcrumbs on single blog posts"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1383
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:212
+#: includes/libraries/macho-shortcode-manager/config.php:155
+msgid "Button"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:154
+#: includes/framework/shortcodes/shortcodes-init.php:236
+msgid "Button Align"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:164
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:192
+msgid "Button Border Radius"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:206
+msgid "Button Left Icon"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:720
+msgid "Button Left Icon "
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:579
+msgid "Button Left Icon (FontAwesome)"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:160
+#: includes/libraries/macho-shortcode-manager/config.php:555
+#: includes/libraries/macho-shortcode-manager/config.php:697
+msgid "Button Link"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:196
+#: includes/libraries/macho-shortcode-manager/config.php:569
+#: includes/libraries/macho-shortcode-manager/config.php:710
+msgid "Button Rel attribute"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:172
+msgid "Button Size"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:145
+#: includes/framework/shortcodes/shortcodes-init.php:227
+msgid "Button Style"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:182
+#: includes/libraries/macho-shortcode-manager/config.php:559
+#: includes/libraries/macho-shortcode-manager/config.php:701
+msgid "Button Target"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:140
+#: includes/framework/shortcodes/shortcodes-init.php:217
+#: includes/libraries/macho-shortcode-manager/config.php:237
+#: includes/libraries/macho-shortcode-manager/config.php:550
+#: includes/libraries/macho-shortcode-manager/config.php:692
+msgid "Button Text"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:168
+#: includes/libraries/macho-shortcode-manager/config.php:511
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:222
+msgid "Button URL"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:212
+#: includes/libraries/macho-shortcode-manager/config.php:726
+msgid "Button: Right Icon "
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:585
+msgid "Button: Right Icon (FontAwesome)"
+msgstr ""
+
+#: template-parts/content-single.php:37 template-parts/content.php:10
+msgid "by"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:478
+msgid ""
+"By turning off the sidebar, your single post will have a full-width layout"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:421
+msgid ""
+"By turning this off, the meta box below the featured image will not be "
+"displayed any more"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:545
+msgid "Callout"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:590
+msgid "Callout Background Color"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:595
+msgid "Callout Button Background Color"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:600
+msgid "Callout Button Text Color"
+msgstr ""
+
+#: includes/class-regina-customizer.php:764
+msgid "Category Header Image"
+msgstr ""
+
+#: includes/class-regina-customizer.php:816
+msgid "Category Sidebar Position"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:157
+#: includes/framework/shortcodes/shortcodes-init.php:239
+#: includes/libraries/macho-shortcode-manager/config.php:293
+msgid "Center"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2325
+msgid "Change /member/ from Members URL"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:757
+msgid "Chart"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:776
+msgid "Chart Icon (FontAwesome)"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:1157
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:105
+#, php-format
+msgid "Choose from the most used %ss"
+msgstr ""
+
+#: includes/class-regina-customizer.php:190
+msgid "Choose Header Type"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2225
+msgid "Choose Preloader Type"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:342
+msgid "Color"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:17
+#: includes/libraries/macho-shortcode-manager/config.php:26
+msgid "Column"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:62
+msgid "Column Content"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: includes/framework/framework-extra.php:979
+msgid "Comments are off for this post."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. Name of the template
+#: includes/class-regina-customizer.php:1602
+msgid "Contact"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1672
+msgid "Contact Email"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1582
+msgid "Contact Info"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2342
+msgid "Contact Us on Services Page?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2374
+msgid "Contact us subtitle"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2358
+msgid "Contact us title"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:203
+msgid "Container"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:207
+msgid "Container Content"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:625
+msgid "Content"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1448
+msgid ""
+"Control various related posts settings from here. For a demo-like experience,"
+" we recommend you don't change these settings."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:682
+msgid "Cost"
+msgstr ""
+
+#: includes/custom-controls/class-wp-customize-new-section-control.php:21
+#: includes/custom-controls/class-wp-customize-new-section.php:26
+msgid "Create Section"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:89
+#: includes/framework/panels/custom-post-types.php:58
+#: includes/framework/panels/custom-post-types.php:127
+#: includes/framework/panels/custom-post-types.php:195
+#: includes/framework/panels/custom-post-types.php:311
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:88
+#: includes/framework/panels/custom-post-types.php:57
+#: includes/framework/panels/custom-post-types.php:126
+#: includes/framework/panels/custom-post-types.php:194
+#: includes/framework/panels/custom-post-types.php:310
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/class-regina-customizer.php:2389
+msgid "Custom JS code"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2262
+msgid "Custom Loader"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:43
+msgid "Custom Sidebar."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:111
+msgid "Dashed"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:284
+msgid "Dashed Line"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:141
+msgid "Dashicons & Font Awesome available."
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-gallery-field.php:29
+msgid "Delete Gallery"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:57
+#: includes/libraries/macho-shortcode-manager/config.php:98
+#: includes/libraries/macho-shortcode-manager/config.php:147
+#: includes/libraries/macho-shortcode-manager/config.php:232
+#: includes/libraries/macho-shortcode-manager/config.php:327
+#: includes/libraries/macho-shortcode-manager/config.php:369
+#: includes/libraries/macho-shortcode-manager/config.php:433
+#: includes/libraries/macho-shortcode-manager/config.php:491
+#: includes/libraries/macho-shortcode-manager/config.php:539
+#: includes/libraries/macho-shortcode-manager/config.php:620
+#: includes/libraries/macho-shortcode-manager/config.php:746
+#: includes/libraries/macho-shortcode-manager/config.php:796
+#: includes/libraries/macho-shortcode-manager/config.php:832
+#: includes/libraries/macho-shortcode-manager/config.php:892
+#: includes/libraries/macho-shortcode-manager/config.php:929
+msgid "Desktops (≥1200px)"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:52
+#: includes/libraries/macho-shortcode-manager/config.php:93
+#: includes/libraries/macho-shortcode-manager/config.php:142
+#: includes/libraries/macho-shortcode-manager/config.php:227
+#: includes/libraries/macho-shortcode-manager/config.php:322
+#: includes/libraries/macho-shortcode-manager/config.php:364
+#: includes/libraries/macho-shortcode-manager/config.php:428
+#: includes/libraries/macho-shortcode-manager/config.php:486
+#: includes/libraries/macho-shortcode-manager/config.php:534
+#: includes/libraries/macho-shortcode-manager/config.php:615
+#: includes/libraries/macho-shortcode-manager/config.php:741
+#: includes/libraries/macho-shortcode-manager/config.php:791
+#: includes/libraries/macho-shortcode-manager/config.php:827
+#: includes/libraries/macho-shortcode-manager/config.php:887
+#: includes/libraries/macho-shortcode-manager/config.php:924
+msgid "Desktops (≥992px)"
+msgstr ""
+
+#: page-templates/template-contact.php:53
+msgid "Details"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wxr-parser.php:46
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:444
+msgid "Disable map controls ? (zoom in/out)"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:232
+#: includes/framework/panels/metaboxes.php:276
+#: includes/framework/panels/metaboxes.php:297
+#: includes/framework/panels/metaboxes.php:372
+#: includes/framework/panels/metaboxes.php:393
+#: includes/framework/panels/metaboxes.php:409
+#: includes/framework/panels/metaboxes.php:418
+#: includes/framework/panels/metaboxes.php:428
+#: includes/framework/panels/metaboxes.php:438
+#: includes/framework/panels/metaboxes.php:447
+#: includes/framework/panels/metaboxes.php:457
+#: includes/framework/panels/metaboxes.php:475
+#: includes/framework/panels/metaboxes.php:543
+#: includes/framework/panels/metaboxes.php:564
+#: includes/framework/panels/metaboxes.php:573
+msgid "Disabled"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:164
+msgid "Display address ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2343
+msgid "Display contact us section on the Services Page"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:159
+msgid "Display email address ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:154
+msgid "Display fax number ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1568
+msgid "Display pagination controls ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:169
+msgid "Display social media links ?"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:149
+msgid "Display telephone number ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:90
+msgid "Display this section only if user is logged-in"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1466
+msgid "Displayed after the author box"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1359
+msgid "Displayed right at the end of the post"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:103
+msgid "Divider"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:127
+msgid "Divider Color"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:560
+msgid "Do you want to open the button in a new window or same window ?"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:285
+msgid "Dotted Line"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:112
+msgid "Double"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:283
+msgid "Double Line"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:236
+#: includes/libraries/macho-shortcode-manager/config.php:548
+msgid "Download"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:284
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-export-field.php:28
+msgid "Download Export File"
+msgstr ""
+
+#: includes/class-regina-customizer.php:44
+msgid "Drag & drop to reorder front-page sections"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:867
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:147
+#: includes/framework/options/fields/class.macho-media-field.php:90
+msgid "Edit"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:131
+#: includes/framework/options/class.macho-taxonomy.php:98
+#: includes/framework/panels/custom-post-types.php:21
+#: includes/framework/panels/custom-post-types.php:90
+#: includes/framework/panels/custom-post-types.php:158
+#: includes/framework/panels/custom-post-types.php:274
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: comments.php:77 page-templates/template-contact.php:75
+msgid "Email"
+msgstr ""
+
+#: footer.php:22
+msgid "Email address"
+msgstr ""
+
+#: includes/class-regina-customizer.php:216
+msgid "Enable \"Book Appointment\" in nav.?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:300
+#: includes/framework/panels/metaboxes.php:396
+#: includes/framework/panels/metaboxes.php:567
+msgid "Enable Breadcrumbs ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1070
+msgid "Enable breadcrumbs on archives ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:965
+msgid "Enable breadcrumbs on author page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:782
+msgid "Enable breadcrumbs on categories page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1175
+msgid "Enable breadcrumbs on search page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:873
+msgid "Enable breadcrumbs on tags page ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:235
+msgid "Enable Customisation of Book Appointment Button?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:84
+msgid "Enable Full Width"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1021
+msgid "Enable header on archives ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:931
+msgid "Enable header on author page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:748
+msgid "Enable header on categories page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1126
+msgid "Enable header on search page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:839
+msgid "Enable header on tags page ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:279
+msgid "Enable Member Page header ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:546
+msgid "Enable Page header ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:375
+msgid "Enable Post header ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2209
+msgid "Enable Prealoader ?"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:449
+msgid "Enable scroll wheel ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:576
+msgid "Enable Sidebar ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1088
+msgid "Enable sidebar on archives ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:983
+msgid "Enable sidebar on author page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:800
+msgid "Enable sidebar on categories page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1193
+msgid "Enable sidebar on search page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:891
+msgid "Enable sidebar on tags page ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:556
+msgid "Enable Slider autoplay ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:254
+msgid "Enable Top Header ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:271
+msgid "Enable Top Header Email ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:332
+msgid "Enable Top Header Facebook ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:441
+msgid "Enable Top Header Google Plus?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:350
+msgid "Enable Top Header Instagram ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:386
+msgid "Enable Top Header LinkedIN ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:314
+msgid "Enable Top Header Search ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:289
+msgid "Enable Top Header Telephone Number ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:368
+msgid "Enable Top Header Twitter ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:422
+msgid "Enable Top Header Yelp?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:404
+msgid "Enable Top Header Youtube ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:231
+#: includes/framework/panels/metaboxes.php:275
+#: includes/framework/panels/metaboxes.php:296
+#: includes/framework/panels/metaboxes.php:371
+#: includes/framework/panels/metaboxes.php:392
+#: includes/framework/panels/metaboxes.php:408
+#: includes/framework/panels/metaboxes.php:417
+#: includes/framework/panels/metaboxes.php:427
+#: includes/framework/panels/metaboxes.php:437
+#: includes/framework/panels/metaboxes.php:446
+#: includes/framework/panels/metaboxes.php:456
+#: includes/framework/panels/metaboxes.php:474
+#: includes/framework/panels/metaboxes.php:542
+#: includes/framework/panels/metaboxes.php:563
+#: includes/framework/panels/metaboxes.php:572
+msgid "Enabled"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:843
+msgid "Enter team member name"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:47
+msgid "Enter the section title"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:53
+msgid "Enter the sub-section title"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:21
+msgid "Enter user FB url"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:33
+msgid "Enter user LinkedIN @username below"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:27
+msgid "Enter user Twitter @username below"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:73
+msgid "Extra CSS classes, separated by spaces."
+msgstr ""
+
+#: includes/class-regina-customizer.php:1723
+#: includes/libraries/macho-shortcode-manager/config.php:857
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:390
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:555
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:717
+#, php-format
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:677
+#, php-format
+msgid "Failed to import %1$s &#8220;%2$s&#8221;"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:582
+#, php-format
+msgid "Failed to import &#8220;%1$s&#8221;: Invalid post type %2$s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:241
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:448
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:497
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: page-templates/template-contact.php:70
+msgid "Fax"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1657
+msgid "Fax number"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:668
+msgid "Featured?"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:751
+msgid "Features (ul list is best)"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:929
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-taxonomy.php:244
+#: includes/framework/options/class.macho-options-user.php:254
+#: includes/framework/options/class.macho-options.php:653
+#: includes/framework/options/class.macho-options.php:718
+#: includes/framework/options/fields/class.macho-group-field.php:189
+#: includes/framework/options/fields/class.macho-group-field.php:212
+#: includes/framework/options/fields/class.macho-group-field.php:246
+#: includes/framework/options/fields/class.macho-group-field.php:295
+#: includes/framework/options/fields/class.macho-group-field.php:333
+#: includes/framework/options/fields/class.macho-group-field.php:380
+msgid "Field type not registered!"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:661
+msgid "First"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:34
+msgid "Five Sixth"
+msgstr ""
+
+#: includes/framework/framework-extra.php:117
+#, php-format
+msgid "FLV <span class=\"count\">(%s)</span>"
+msgid_plural "FLVs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:115
+msgid "FLVs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1864
+msgid "Follow this link to get your API key: "
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:191
+msgid "Font Family"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:197
+msgid "Font Size"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:248
+msgid "Font Size (in pixels)"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2159
+msgid "Footer Columns"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2174
+msgid "Footer Copyright."
+msgstr ""
+
+#: includes/class-regina-customizer.php:2096
+msgid "Footer Settings"
+msgstr ""
+
+#: page-templates/template-contact.php:92
+msgid "For job inquires use"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:13
+msgid ""
+"From here you will be able to control the front-page sections. Please make "
+"sure you've read the documentation before proceeding"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:535
+msgid "From here you will be able to control the page settings."
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:359
+msgid "From here you will be able to control the post settings."
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:322
+msgid ""
+"From here you will be able to control the testimonials. Please make sure "
+"you've read the documentation before proceeding"
+msgstr ""
+
+#: includes/class-regina-customizer.php:43
+msgid "Front Page Sections"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:35
+msgid "Full Width ( Six Sixth )"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:119
+msgid "Gallery"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:145
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:439
+msgid "Google Map"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1879
+msgid "Google Maps Address"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1863
+#: includes/class-regina-customizer.php:1864
+msgid "Google Maps API Key"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1843
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:348
+msgid "Gray"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:345
+msgid "Green"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:179
+msgid "Have fun!"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:366
+msgid "Header - single post settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:358
+msgid "Header Post Settings"
+msgstr ""
+
+#: includes/class-regina-customizer.php:156
+msgid "Header Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:364
+msgid "Header settings"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:243
+msgid "Heading"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2359
+msgid "Heading for this section"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:252
+msgid "Heading Hex Color"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:466
+msgid "Height"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:78
+msgid "Height In Pixels"
+msgstr ""
+
+#: includes/class-regina-customizer.php:136
+#: includes/custom-controls/class-regina-section.php:13
+msgid "here"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1234
+msgid ""
+"Here you can add a title, description and image background for each post"
+msgstr ""
+
+#: includes/class-regina-customizer.php:683
+msgid "Here you will control blog options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:455
+msgid "Hero Section"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:373
+msgid "hey check me out"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:41
+#: includes/libraries/macho-shortcode-manager/config.php:82
+#: includes/libraries/macho-shortcode-manager/config.php:131
+#: includes/libraries/macho-shortcode-manager/config.php:216
+#: includes/libraries/macho-shortcode-manager/config.php:311
+#: includes/libraries/macho-shortcode-manager/config.php:353
+#: includes/libraries/macho-shortcode-manager/config.php:417
+#: includes/libraries/macho-shortcode-manager/config.php:475
+#: includes/libraries/macho-shortcode-manager/config.php:523
+#: includes/libraries/macho-shortcode-manager/config.php:604
+#: includes/libraries/macho-shortcode-manager/config.php:730
+#: includes/libraries/macho-shortcode-manager/config.php:780
+#: includes/libraries/macho-shortcode-manager/config.php:816
+#: includes/libraries/macho-shortcode-manager/config.php:876
+#: includes/libraries/macho-shortcode-manager/config.php:913
+msgid "Hide on extra small devices"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:56
+#: includes/libraries/macho-shortcode-manager/config.php:97
+#: includes/libraries/macho-shortcode-manager/config.php:146
+#: includes/libraries/macho-shortcode-manager/config.php:231
+#: includes/libraries/macho-shortcode-manager/config.php:326
+#: includes/libraries/macho-shortcode-manager/config.php:368
+#: includes/libraries/macho-shortcode-manager/config.php:432
+#: includes/libraries/macho-shortcode-manager/config.php:490
+#: includes/libraries/macho-shortcode-manager/config.php:538
+#: includes/libraries/macho-shortcode-manager/config.php:619
+#: includes/libraries/macho-shortcode-manager/config.php:745
+#: includes/libraries/macho-shortcode-manager/config.php:795
+#: includes/libraries/macho-shortcode-manager/config.php:831
+#: includes/libraries/macho-shortcode-manager/config.php:891
+#: includes/libraries/macho-shortcode-manager/config.php:928
+msgid "Hide on large devices"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:51
+#: includes/libraries/macho-shortcode-manager/config.php:92
+#: includes/libraries/macho-shortcode-manager/config.php:141
+#: includes/libraries/macho-shortcode-manager/config.php:226
+#: includes/libraries/macho-shortcode-manager/config.php:321
+#: includes/libraries/macho-shortcode-manager/config.php:363
+#: includes/libraries/macho-shortcode-manager/config.php:427
+#: includes/libraries/macho-shortcode-manager/config.php:485
+#: includes/libraries/macho-shortcode-manager/config.php:533
+#: includes/libraries/macho-shortcode-manager/config.php:614
+#: includes/libraries/macho-shortcode-manager/config.php:740
+#: includes/libraries/macho-shortcode-manager/config.php:790
+#: includes/libraries/macho-shortcode-manager/config.php:826
+#: includes/libraries/macho-shortcode-manager/config.php:886
+#: includes/libraries/macho-shortcode-manager/config.php:923
+msgid "Hide on medium devices"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:46
+#: includes/libraries/macho-shortcode-manager/config.php:87
+#: includes/libraries/macho-shortcode-manager/config.php:136
+#: includes/libraries/macho-shortcode-manager/config.php:221
+#: includes/libraries/macho-shortcode-manager/config.php:316
+#: includes/libraries/macho-shortcode-manager/config.php:358
+#: includes/libraries/macho-shortcode-manager/config.php:422
+#: includes/libraries/macho-shortcode-manager/config.php:480
+#: includes/libraries/macho-shortcode-manager/config.php:528
+#: includes/libraries/macho-shortcode-manager/config.php:609
+#: includes/libraries/macho-shortcode-manager/config.php:735
+#: includes/libraries/macho-shortcode-manager/config.php:785
+#: includes/libraries/macho-shortcode-manager/config.php:821
+#: includes/libraries/macho-shortcode-manager/config.php:881
+#: includes/libraries/macho-shortcode-manager/config.php:918
+msgid "Hide on small devices"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:374
+msgid "Highlighted Text"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:337
+msgid "Highlights"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:81
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:495
+msgid "Home"
+msgstr ""
+
+#: includes/class-regina-customizer.php:647
+msgid "Homepage Section Button Text"
+msgstr ""
+
+#: includes/class-regina-customizer.php:667
+msgid "Homepage Section Button URL"
+msgstr ""
+
+#: includes/class-regina-customizer.php:627
+msgid "Homepage Section Description"
+msgstr ""
+
+#: includes/class-regina-customizer.php:607
+msgid "Homepage Section Title"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:191
+msgid "Hospitals where this doctor has worked"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1488
+msgid "How many blog posts to display in the carousel at once ?"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:1156
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.machothemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.machothemes.com/themes/regina/"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:271
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/framework/panels/custom-post-types.php:223
+msgid "Image"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:281
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:301
+msgid "Import author:"
+msgstr ""
+
+#: includes/class-regina.php:38 includes/class-regina.php:40
+#: includes/class-regina.php:47
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:1134
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-regina-theme-importer.php:597
+msgid "Imported"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-regina-theme-importer.php:600
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/class-regina-customizer.php:136
+#: includes/custom-controls/class-regina-section.php:13
+msgid "In order to edit this section content and settings please go "
+msgstr ""
+
+#: includes/class-regina-customizer.php:2029
+msgid ""
+"In order to use <strong>Contact Form 7</strong> you need to install & "
+"activate it"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2013
+msgid ""
+"In order to use <strong>WPForms</strong> you need to install & activate it"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:626
+msgid "Insert CTA text"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:63
+msgid "Insert the column content"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1743
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/custom-controls/class-regina-pro-install-plugin.php:53
+msgid "Install"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2028
+msgid "Install CF7"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2012
+msgid "Install WPForms"
+msgstr ""
+
+#. %1$s: plugin name
+#: includes/libraries/class-regina-notify-system.php:37
+#, php-format
+msgid "Install: %1$s"
+msgstr ""
+
+#: includes/custom-controls/class-regina-pro-install-plugin.php:57
+msgid "Installing ..."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:946
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/shortcodes.php:1557
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: includes/class-regina-customizer.php:1692
+msgid "Jobs Email"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:841
+msgid "John Doe"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:663
+msgid "Last"
+msgstr ""
+
+#: includes/class-regina-customizer.php:668
+msgid "Leave it blank in order to show the appointment popup"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:156
+#: includes/framework/shortcodes/shortcodes-init.php:238
+#: includes/libraries/macho-shortcode-manager/config.php:292
+msgid "Left"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:301
+msgid "Left Icon"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:400
+msgid "Left Margin"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:484
+#: includes/framework/panels/metaboxes.php:583
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:200
+msgid "Line Height"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:64
+#: includes/framework/shortcodes/shortcodes-init.php:91
+msgid "Link Text"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:69
+#: includes/framework/shortcodes/shortcodes-init.php:96
+msgid "Link URL"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1783
+#: includes/libraries/macho-shortcode-manager/config.php:862
+msgid "LinkedIN URL"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:909
+msgid "List Item Icon"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:934
+msgid "List Item Text"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:898
+msgid "List With Icon"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2247
+msgid "Loading message"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:455
+msgid "Location"
+msgstr ""
+
+#: includes/class-regina-customizer.php:174
+msgid "Logo Image"
+msgstr ""
+
+#: front-page.php:10 includes/class-regina-customizer.php:621
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#. %s: date and time of the revision
+#: includes/framework/options/class.macho-post-type.php:360
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#. Author of the theme
+msgid "Macho Themes"
+msgstr ""
+
+#: footer.php:12
+msgid "Make an appointment and we’ll contact you."
+msgstr ""
+
+#: includes/framework/framework-extra.php:116
+msgid "Manage FLVs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:111
+msgid "Manage MOVs"
+msgstr ""
+
+#: includes/framework/framework-extra.php:101
+msgid "Manage PDFs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2056
+msgid "Manage Sidebars"
+msgstr ""
+
+#: includes/framework/framework-extra.php:106
+msgid "Manage SWFs"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:36
+#: includes/framework/options/fields/class.macho-media-field.php:29
+msgid "Media Library"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:89
+msgid "Meet the full team"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:180
+msgid "Member Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:283
+msgid "Member Page Header Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:174
+msgid "Member Settings"
+msgstr ""
+
+#. Name of the template
+#: includes/framework/shortcodes/shortcodes-init.php:75
+msgid "Members"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:864
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:857
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: footer.php:34
+msgid "Message"
+msgstr ""
+
+#: footer.php:45
+msgid "Message Sent"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:662
+msgid "Middle"
+msgstr ""
+
+#: template-parts/content-single-member.php:51
+msgid "Monday - Friday"
+msgstr ""
+
+#: includes/framework/framework-extra.php:112
+#, php-format
+msgid "MOV <span class=\"count\">(%s)</span>"
+msgid_plural "MOVs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:110
+msgid "MOVs"
+msgstr ""
+
+#: comments.php:75
+msgid "Name"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:431
+msgid "Navigation between posts will be disabled"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:395
+msgid "Never"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:130
+#: includes/framework/panels/custom-post-types.php:20
+#: includes/framework/panels/custom-post-types.php:89
+#: includes/framework/panels/custom-post-types.php:157
+#: includes/framework/panels/custom-post-types.php:273
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: functions.php:315
+msgid "New Appointment"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2402
+msgid "New Section"
+msgstr ""
+
+#: includes/framework/framework-extra.php:454
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/framework/framework-extra.php:445
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:670
+msgid "No"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:106
+#, php-format
+msgid "No %ss found"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:137
+#: includes/framework/panels/custom-post-types.php:27
+#: includes/framework/panels/custom-post-types.php:96
+#: includes/framework/panels/custom-post-types.php:164
+#: includes/framework/panels/custom-post-types.php:280
+#, php-format
+msgid "No %ss found in Trash."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:136
+#: includes/framework/panels/custom-post-types.php:26
+#: includes/framework/panels/custom-post-types.php:95
+#: includes/framework/panels/custom-post-types.php:163
+#: includes/framework/panels/custom-post-types.php:279
+#, php-format
+msgid "No %ss found."
+msgstr ""
+
+#: template-parts/content-single.php:56 template-parts/content.php:29
+#: includes/framework/framework-extra.php:971
+msgid "No Comments"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/shortcodes.php:1555
+msgid "No location found for the entered address."
+msgstr ""
+
+#: includes/class-regina-customizer.php:1489
+msgid "No more than 4 posts at once;"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/slider/views/projects-carousel.php:98
+#: includes/libraries/macho-shortcode-manager/slider/views/small-testimonials-carousel.php:146
+msgid "No posts found !"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-regina-theme-importer.php:606
+msgid "No Title"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:199
+#: includes/libraries/macho-shortcode-manager/config.php:572
+#: includes/libraries/macho-shortcode-manager/config.php:713
+msgid "Nofollow"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:198
+#: includes/libraries/macho-shortcode-manager/config.php:571
+#: includes/libraries/macho-shortcode-manager/config.php:712
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:191
+msgid "Number of blog posts"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-switch-field.php:30
+msgid "Off"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-switch-field.php:29
+msgid "On"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:31
+msgid "One Fourth"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:28
+msgid "One Half"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:33
+msgid "One Sixth"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:29
+msgid "One Third"
+msgstr ""
+
+#: includes/framework/options/class.macho-page.php:69
+#: includes/framework/options/class.macho-page.php:70
+msgid "Options"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:502
+msgid "Options Layout"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:328
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:315
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:148
+#: includes/framework/shortcodes/shortcodes-init.php:230
+msgid "Outline"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:550
+msgid "Page Header Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:268
+msgid "Page Member Settings"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:534
+msgid "Page Settings"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:23
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:97
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:96
+#, php-format
+msgid "Parent %ss"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:135
+#: includes/framework/panels/custom-post-types.php:25
+#: includes/framework/panels/custom-post-types.php:94
+#: includes/framework/panels/custom-post-types.php:162
+#: includes/framework/panels/custom-post-types.php:278
+#, php-format
+msgid "Parent %ss:"
+msgstr ""
+
+#: functions.php:276
+msgid "Patient Email: "
+msgstr ""
+
+#: functions.php:297
+msgid "Patient Message: "
+msgstr ""
+
+#: functions.php:269
+msgid "Patient Name: "
+msgstr ""
+
+#: functions.php:283
+msgid "Patient Phone: "
+msgstr ""
+
+#: includes/framework/framework-extra.php:102
+#, php-format
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:100
+msgid "PDFs"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:687
+msgid "Per (optional)"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:507
+#: includes/libraries/macho-shortcode-manager/config.php:762
+msgid "Percentage"
+msgstr ""
+
+#: page-templates/template-contact.php:64
+msgid "Phone"
+msgstr ""
+
+#: footer.php:26
+msgid "Phone Number"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:42
+#: includes/libraries/macho-shortcode-manager/config.php:83
+#: includes/libraries/macho-shortcode-manager/config.php:132
+#: includes/libraries/macho-shortcode-manager/config.php:217
+#: includes/libraries/macho-shortcode-manager/config.php:312
+#: includes/libraries/macho-shortcode-manager/config.php:354
+#: includes/libraries/macho-shortcode-manager/config.php:418
+#: includes/libraries/macho-shortcode-manager/config.php:476
+#: includes/libraries/macho-shortcode-manager/config.php:524
+#: includes/libraries/macho-shortcode-manager/config.php:605
+#: includes/libraries/macho-shortcode-manager/config.php:731
+#: includes/libraries/macho-shortcode-manager/config.php:781
+#: includes/libraries/macho-shortcode-manager/config.php:817
+#: includes/libraries/macho-shortcode-manager/config.php:877
+#: includes/libraries/macho-shortcode-manager/config.php:914
+msgid "Phones (<768px)"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:185
+msgid "Place doctor position here"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:152
+msgid "Place read more link here"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:146
+msgid "Place read more text here"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:224
+msgid "Place social url here"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:677
+msgid "Plan"
+msgstr ""
+
+#. %1$s: plugin name
+#: includes/libraries/class-regina-notify-system.php:45
+#, php-format
+msgid "Please activate %1$s in order to create the demo content."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/slider/views/big-testimonials-carousel.php:79
+#: includes/libraries/macho-shortcode-manager/slider/views/small-testimonials-carousel.php:78
+msgid "Please enter testimonial person name."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/slider/views/big-testimonials-carousel.php:62
+#: includes/libraries/macho-shortcode-manager/slider/views/small-testimonials-carousel.php:136
+msgid "Please enter testimonial text"
+msgstr ""
+
+#. %1$s: plugin name
+#: includes/libraries/class-regina-notify-system.php:39
+#, php-format
+msgid "Please install %1$s in order to create the demo content."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:37
+msgid "Please select the width of column"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:94
+#, php-format
+msgid "Popular %ss"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:659
+msgid "Position"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:379
+msgid "Post Header Image"
+msgstr ""
+
+#: includes/framework/framework-extra.php:440
+msgid "Post navigation"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:401
+msgid "Post settings"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1271
+msgid "Posted on meta on single blog post"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2296
+msgid "Preloader graphics color:"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2191
+msgid "Preloader Options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2279
+msgid "Preloader text color:"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:374
+msgid "Preview"
+msgstr ""
+
+#: includes/framework/framework-extra.php:444
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:631
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/framework/panels/custom-post-types.php:222
+msgid "Project ID"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/shortcodes.php:1739
+msgid "Purchase"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:846
+msgid ""
+"Quisque consectetur sem id nisi lacinia, eu sodales dui rhoncus. "
+"Pellentesque habitant morbi tristique senectus et netur."
+msgstr ""
+
+#: template-parts/content-member.php:27
+#: includes/framework/framework-extra.php:788
+#: includes/framework/shortcodes/shortcodes.php:123
+msgid "Read more"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:22
+#: includes/framework/panels/user-meta.php:28
+#: includes/framework/panels/user-meta.php:34
+msgid "Read the documentation to set it up exactly like in the demo."
+msgstr ""
+
+#: template-parts/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: includes/class-regina.php:143
+msgid "Recomended Actions"
+msgstr ""
+
+#: includes/class-regina.php:145
+msgid "Recomended Plugins :"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:347
+msgid "Red"
+msgstr ""
+
+#. Name of the theme
+msgid "Regina"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:348
+msgid ""
+"Registering your purchase will allow you to get support and automatic theme "
+"updates. We know you will love it. If you run into any trouble, please do "
+"not hesitate to fill out a support ticket. Our dedicated staff is ready to "
+"take on all support requests."
+msgstr ""
+
+#: template-parts/single/single-related.php:40
+msgid "Related Posts"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1465
+msgid "Related posts carousel ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1447
+msgid "Related Posts Settings"
+msgstr ""
+
+#: includes/framework/framework-extra.php:899
+msgid "Related posts: "
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:180
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:1005
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:1016
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:992
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:998
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:146
+#: includes/framework/options/fields/class.macho-media-field.php:89
+msgid "Remove"
+msgstr ""
+
+#: functions.php:239
+msgid "Reply"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:374
+#: includes/framework/options/class.macho-options-page.php:412
+msgid "Restore ALL Theme Defaults"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2324
+msgid "Rewrite CPT Members"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:158
+#: includes/framework/shortcodes/shortcodes-init.php:240
+#: includes/libraries/macho-shortcode-manager/config.php:294
+msgid "Right"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:307
+msgid "Right Icon"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:390
+msgid "Right Margin"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:485
+#: includes/framework/panels/metaboxes.php:584
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:380
+msgid "Rounded Image"
+msgstr ""
+
+#: template-parts/content-single-member.php:60
+msgid "Saturday"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:104
+msgid "Save Options"
+msgstr ""
+
+#: searchform.php:2 template-parts/header/header-v1.php:50
+#: template-parts/header/header-v2.php:52
+#: template-parts/header/header-v3.php:53
+#: template-parts/header/subheader-archive.php:12
+#: template-parts/header/top-header.php:52
+msgid "Search"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:134
+#: includes/framework/options/class.macho-taxonomy.php:93
+#: includes/framework/panels/custom-post-types.php:24
+#: includes/framework/panels/custom-post-types.php:93
+#: includes/framework/panels/custom-post-types.php:161
+#: includes/framework/panels/custom-post-types.php:277
+#, php-format
+msgid "Search %ss"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1158
+msgid "Search header description"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1142
+msgid "Search Header Image"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1209
+msgid "Search Sidebar Position"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:83
+msgid "Search:"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:268
+msgid "Section"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:54
+msgid "Section Description"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:12
+msgid "Section settings"
+msgstr ""
+
+#: includes/custom-controls/class-wp-customize-new-section.php:25
+#: includes/framework/panels/metaboxes.php:48
+msgid "Section Title"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2044
+msgid "Select Booking form"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1991
+msgid "Select Booking form type"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-background-field.php:35
+#: includes/framework/options/fields/class.macho-background-field.php:37
+#: includes/framework/options/fields/class.macho-media-field.php:28
+#: includes/framework/options/fields/class.macho-media-field.php:30
+msgid "Select Media"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:75
+msgid "Select section style"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:493
+#: includes/framework/panels/metaboxes.php:592
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:581
+msgid "Select sidebar position"
+msgstr ""
+
+#: includes/class-regina-customizer.php:531
+msgid "Select Slide Image"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:812
+msgid "Select Slider"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:219
+msgid "Select social icon"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:26
+msgid "Select the section: background image, color & opacity."
+msgstr ""
+
+#: includes/class-regina-customizer.php:470
+msgid "Select your background type"
+msgstr ""
+
+#: footer.php:37
+msgid "Send"
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:103
+#, php-format
+msgid "Seperate %ss with commas"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:136
+msgid "Service Icon Custom Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:130
+msgid "Service Settings"
+msgstr ""
+
+#. Name of the template
+#: includes/framework/shortcodes/shortcodes-init.php:48
+msgid "Services"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1384
+msgid "Settings related to breadcrumbs on single post"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:106
+msgid "Settings reset to defaults."
+msgstr ""
+
+#: includes/framework/options/class.macho-options-page.php:105
+msgid "Settings saved."
+msgstr ""
+
+#: template-parts/content-single.php:92
+msgid "Share this article"
+msgstr ""
+
+#: includes/framework/framework-extra.php:710
+msgid "Share this article - choose your platform:"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1252
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2113
+msgid "Show Footer Widgets ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1233
+msgid "Show Page Header"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:515
+msgid "Show Percent"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1425
+msgid "Show post category ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1296
+msgid "Show Post Navigation"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1315
+msgid "Show Post Social Box"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1532
+msgid "Show posts date  ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1513
+msgid "Show posts title in the carousel?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:477
+msgid "Show sidebar ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:420
+msgid "Show single meta ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:449
+msgid "Show single post author box ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:411
+msgid "Show single post featured image ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:430
+msgid "Show single post prev / next navigation ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:459
+msgid "Show single post related posts box ?"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:440
+msgid "Show single post social box ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1426
+msgid "Show the post category in the breadcrumb ?"
+msgstr ""
+
+#: includes/class-regina-customizer.php:333
+msgid "Show/Hide Facebook icon in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1253
+msgid "Show/hide featured image from single post"
+msgstr ""
+
+#: includes/class-regina-customizer.php:442
+msgid "Show/Hide Google Plus icon link in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:351
+msgid "Show/Hide Instagram icon in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:387
+msgid "Show/Hide LinkedIN icon in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1297
+msgid "Show/hide next,previous post navigation"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1071
+msgid "Show/hide the archive page's breadcrumbs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1089
+msgid "Show/hide the archive page's sidebar"
+msgstr ""
+
+#: includes/class-regina-customizer.php:966
+msgid "Show/hide the author page's breadcrumbs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1022
+msgid "Show/hide the author page's sidebar"
+msgstr ""
+
+#: includes/class-regina-customizer.php:932
+msgid "Show/hide the author page's title"
+msgstr ""
+
+#: includes/class-regina-customizer.php:948
+msgid "Show/hide the breadcrumbs area in the author page"
+msgstr ""
+
+#: includes/class-regina-customizer.php:783
+msgid "Show/hide the category page's breadcrumbs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:801
+msgid "Show/hide the category page's sidebar"
+msgstr ""
+
+#: includes/class-regina-customizer.php:749
+msgid "Show/hide the category page's title"
+msgstr ""
+
+#: includes/class-regina-customizer.php:272
+msgid "Show/Hide the email in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:315
+msgid "Show/Hide the search box in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1176
+msgid "Show/hide the search page's breadcrumbs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1194
+msgid "Show/hide the search page's sidebar"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1127
+msgid "Show/hide the search page's title"
+msgstr ""
+
+#: includes/class-regina-customizer.php:984
+msgid "Show/hide the sidebar area in the author page"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1316
+msgid "Show/hide the social box from single post"
+msgstr ""
+
+#: includes/class-regina-customizer.php:874
+msgid "Show/hide the tags page's breadcrumbs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:892
+msgid "Show/hide the tags page's sidebar"
+msgstr ""
+
+#: includes/class-regina-customizer.php:840
+msgid "Show/hide the tags page's title"
+msgstr ""
+
+#: includes/class-regina-customizer.php:290
+msgid "Show/Hide the telephone number in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:255
+msgid "Show/Hide the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:369
+msgid "Show/Hide Twitter icon in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:423
+msgid "Show/Hide Yelp icon link in the top header area"
+msgstr ""
+
+#: includes/class-regina-customizer.php:405
+msgid "Show/Hide Youtube icon in the top header area"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:469
+msgid "Sidebar - single post settings"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-regina-theme-importer.php:503
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:62
+#, php-format
+msgid "Sidebar Footer %d"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2083
+msgid "Sidebar Name"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:487
+msgid "Sidebar position"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:467
+msgid "Sidebar settings"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2074
+#: includes/class-regina-customizer.php:2077
+msgid "Sidebars"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:403
+msgid "Single post settings"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-regina-theme-importer.php:525
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:53
+#: includes/framework/shortcodes/shortcodes-init.php:80
+#: includes/framework/shortcodes/shortcodes-init.php:107
+#: includes/libraries/macho-shortcode-manager/config.php:108
+#: includes/libraries/macho-shortcode-manager/config.php:640
+msgid "Size"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:502
+msgid "Skill"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:497
+msgid "Skillbar"
+msgstr ""
+
+#: includes/class-regina-customizer.php:574
+msgid "Slide transition duration (in ms)"
+msgstr ""
+
+#: includes/class-regina-customizer.php:536
+msgid "Slide URL"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:806
+msgid "Slider"
+msgstr ""
+
+#: includes/class-regina-customizer.php:590
+msgid "Slider Auto Pause"
+msgstr ""
+
+#: includes/class-regina-customizer.php:573
+msgid "Slider Speed"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1613
+#: page-templates/template-contact.php:81
+msgid "Social"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:147
+#: includes/framework/shortcodes/shortcodes-init.php:229
+#: includes/libraries/macho-shortcode-manager/config.php:110
+msgid "Solid"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/shortcodes.php:1559
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:135
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:144
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:195
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:199
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:208
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:68
+msgid "Spacer"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2351
+#: page-templates/template-services.php:12
+msgid "Speak with our doctors"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:505
+msgid "Standard"
+msgstr ""
+
+#: includes/class-regina-customizer.php:494
+msgid "Static Image"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:280
+msgid "Style"
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:503
+msgid "Style:"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2375
+msgid "Subheading for this section"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:288
+msgid "Submit"
+msgstr ""
+
+#: template-parts/content-single-member.php:69
+msgid "Sunday"
+msgstr ""
+
+#: includes/framework/framework-extra.php:107
+#, php-format
+msgid "SWF <span class=\"count\">(%s)</span>"
+msgid_plural "SWFs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/framework-extra.php:105
+msgid "SWFs"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-font-field.php:132
+msgid "System Fonts"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:47
+#: includes/libraries/macho-shortcode-manager/config.php:88
+#: includes/libraries/macho-shortcode-manager/config.php:137
+#: includes/libraries/macho-shortcode-manager/config.php:222
+#: includes/libraries/macho-shortcode-manager/config.php:317
+#: includes/libraries/macho-shortcode-manager/config.php:359
+#: includes/libraries/macho-shortcode-manager/config.php:423
+#: includes/libraries/macho-shortcode-manager/config.php:481
+#: includes/libraries/macho-shortcode-manager/config.php:529
+#: includes/libraries/macho-shortcode-manager/config.php:610
+#: includes/libraries/macho-shortcode-manager/config.php:736
+#: includes/libraries/macho-shortcode-manager/config.php:786
+#: includes/libraries/macho-shortcode-manager/config.php:822
+#: includes/libraries/macho-shortcode-manager/config.php:882
+#: includes/libraries/macho-shortcode-manager/config.php:919
+msgid "Tablets (≥768px)"
+msgstr ""
+
+#: includes/class-regina-customizer.php:855
+msgid "Tag Header Image"
+msgstr ""
+
+#: includes/class-regina-customizer.php:907
+msgid "Tag Sidebar Position"
+msgstr ""
+
+#: includes/framework/breadcrumbs/class.macho-breadcrumbs.php:82
+msgid "Tag:"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1334
+msgid "Tags meta on single blog post"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:838
+msgid "Team"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:848
+msgid "Team member description"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1637
+msgid "Telephone number"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:337
+msgid "Testimonial Person Image"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:321
+msgid "Testimonial Settings"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:102
+msgid "Testimonials"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:290
+#: includes/libraries/macho-shortcode-manager/config.php:404
+msgid "Text Align"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:238
+msgid "Text shown on button"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:801
+msgid "Text to be displayed inside the chart wheel"
+msgstr ""
+
+#: includes/class-regina-customizer.php:591
+msgid "The amount of time (in ms) between each auto transition"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:200
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-export-field.php:87
+msgid "The export option will become available once you save this form."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:136
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:239
+msgid "The text you'd like to appear on the button"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1880
+msgid ""
+"The value entered here will be used as default for the Google Maps Shortcode."
+" Also, in the Google Maps Shortcode used on the Contact Page Template."
+msgstr ""
+
+#: includes/class-regina-customizer.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1913
+msgid "Theme Primary Color:"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1929
+msgid "Theme Primary Font:"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1954
+msgid "Theme Secondary Font:"
+msgstr ""
+
+#: includes/framework/framework-extra.php:191
+msgid "There are no more projects."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wxr-parser-simplexml.php:31
+#: includes/libraries/welcome-screen/inc/class-wxr-parser-simplexml.php:39
+#: includes/libraries/welcome-screen/inc/class-wxr-parser.php:45
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wxr-parser-regex.php:80
+#: includes/libraries/welcome-screen/inc/class-wxr-parser-simplexml.php:44
+#: includes/libraries/welcome-screen/inc/class-wxr-parser-simplexml.php:50
+#: includes/libraries/welcome-screen/inc/class-wxr-parser-xml.php:90
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/shortcodes.php:1502
+msgid ""
+"This Google Map cannot be loaded because the maps API does not appear to be "
+"loaded"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:331
+msgid "This is a heading"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:624
+msgid "This is our main CTA text."
+msgstr ""
+
+#: includes/framework/options/class.macho-options.php:144
+msgid "This option is required."
+msgstr ""
+
+#: includes/class-regina-customizer.php:1403
+msgid "This will disable the breadcrumbs"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1272
+msgid "This will disable the posted on zone as well as the author name"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1335
+msgid "This will disable the tagged with zone."
+msgstr ""
+
+#: includes/class-regina.php:39
+msgid "This will make your website to look like our demo."
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:216
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:32
+msgid "Three Fourth"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:332
+msgid "Title"
+msgstr ""
+
+#: includes/framework/widgets/widget-contact.php:143
+msgid "Title:"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:269
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:257
+#: includes/libraries/macho-shortcode-manager/config.php:385
+msgid "Top Margin"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:118
+msgid "Top Margin In Pixels"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:766
+msgid "Track Color"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1763
+#: includes/libraries/macho-shortcode-manager/config.php:872
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:30
+msgid "Two Thirds"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:266
+msgid "Type"
+msgstr ""
+
+#: includes/framework/options/fields/class.macho-search-field.php:40
+msgid "Type to search"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1892
+msgid "Typography & Colors"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/shortcodes.php:1562
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: includes/framework/options/class.macho-taxonomy.php:100
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/framework/shortcodes/shortcodes-init.php:128
+#: includes/libraries/macho-shortcode-manager/config.php:413
+#: includes/libraries/macho-shortcode-manager/config.php:654
+#: includes/libraries/macho-shortcode-manager/config.php:852
+msgid "Upload Image"
+msgstr ""
+
+#: includes/framework/panels/user-meta.php:16
+msgid "User Image"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-user.php:213
+msgid "User Settings Saved."
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:368
+msgid "View"
+msgstr ""
+
+#: includes/framework/options/class.macho-post-type.php:132
+#: includes/framework/options/class.macho-taxonomy.php:99
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/framework/framework-extra.php:1110
+msgid "View Full Post"
+msgstr ""
+
+#: front-page.php:9 includes/class-regina-customizer.php:600
+msgid "We help people, like you."
+msgstr ""
+
+#: includes/class-regina-customizer.php:2367
+#: page-templates/template-services.php:13
+msgid ""
+"We offer various services lorem ipsum dolor sit amet, consectetur "
+"adipisicing elit, sed do eiusmod tempor incididunt."
+msgstr ""
+
+#: comments.php:79
+msgid "Website"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:252
+msgid "Where to have this button link"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-regina-theme-importer.php:548
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-regina-theme-importer.php:422
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:15
+msgid "Widgets in this area will be shown on Blog pages."
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:64
+msgid "Widgets in this area will be shown on footer."
+msgstr ""
+
+#: includes/framework/sidebars/sidebars.php:25
+msgid "Widgets in this area will be shown on Pages."
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:461
+msgid "Width"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1569
+msgid "Will be displayed as navigation bullets"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:77
+msgid "With Padding"
+msgstr ""
+
+#: includes/framework/panels/metaboxes.php:78
+msgid "Without Padding"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:346
+msgid "Yellow"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1823
+msgid "Yelp URL"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:671
+msgid "Yes"
+msgstr ""
+
+#: includes/framework/options/class.macho-options-user.php:183
+msgid "You do not have permission to edit this user."
+msgstr ""
+
+#: includes/class-regina-customizer.php:1708
+msgid "Your Address"
+msgstr ""
+
+#: includes/class-regina-customizer.php:2240
+msgid "Your custom loading message here."
+msgstr ""
+
+#: footer.php:18
+msgid "Your name"
+msgstr ""
+
+#: includes/class-regina-customizer.php:557
+msgid "Your slides will automatically rotate if you enable this option"
+msgstr ""
+
+#: includes/class-regina-customizer.php:1803
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/libraries/welcome-screen/inc/class-wp-import.php:1010
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/libraries/macho-shortcode-manager/config.php:471
+msgid "Zoom"
+msgstr ""

@@ -1,0 +1,195 @@
+/*
+Theme Name: Regina
+Theme URI: https://www.machothemes.com/themes/regina/
+Author: Macho Themes
+Author URI: https://www.machothemes.com/
+Description:
+Version: 2.0.3
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-#.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: regina
+*/
+
+body {
+	background-color: #fff;
+}
+body,.icon-list li,h5,h6,.button,input[type="text"],textarea,#page-header .title,.ui-datepicker {
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p small, h1, h2, h3, h4 {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#sub-header p a {
+	-webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+* {
+	outline: none;
+}
+
+.section-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.homepage-section {
+	position: relative;
+}
+.image img {
+	height: auto;
+}
+.header-v2 #navigation {
+	float: none;
+	padding-bottom: 30px;
+}
+#header.header-v2 {
+	height: auto;
+	line-height: normal;
+}
+.header-v2 #navigation ul {
+	line-height: 24px;
+}
+#header.header-v2 #logo {
+	float: none;
+	padding: 30px 0;
+}
+.header-v3 #navigation ul li:not(.hover-item) {
+	display: none;
+}
+
+.header-v3 #navigation:hover ul li {
+	display: inline-block;
+}
+	.header-v3 #navigation:hover ul li ul li {
+		display: list-item;
+	}
+
+/* Page Preloader */
+#page-loader {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 10000;
+    top: 0;
+    background-color: #EEE;
+}
+
+#page-loader .loader {
+    font-weight: 400;
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 32px;
+    line-height: 40px;
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    left: 0;
+    text-align: center;
+    width: 100%;
+}
+.pace {
+    z-index: 10001;
+}
+.pace-inactive {
+    display: none;
+}
+
+
+/* New Search Form */
+.nav-menu-search{
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+.nav-menu-search input#search{
+	width: 100%;
+	height: 40px;
+	background: #FFF;
+	font-size: 10pt;
+	line-height: 40px;
+	padding-left: 15px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: #CCC;
+	text-indent: 0;
+	border-width: 1px;
+}
+.nav-menu-search input#search:focus {
+	-webkit-box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.34);
+	-moz-box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.34);
+	box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.34);
+}
+
+
+.widget_search .nav-menu-search button.icon {
+	left: -42px;
+    height: 41px;
+    line-height: 41px;
+    top: 2px;
+}
+.widget_search .nav-menu-search button.icon:focus {
+	background-color: #212121;
+}
+
+.nav-menu-search input#search::-webkit-input-placeholder {
+	color: #65737e;
+}
+
+.nav-menu-search input#search:-moz-placeholder { /* Firefox 18- */
+	color: #65737e;
+}
+
+.nav-menu-search input#search::-moz-placeholder {  /* Firefox 19+ */
+	color: #65737e;
+}
+
+.nav-menu-search input#search:-ms-input-placeholder {
+	color: #65737e;
+}
+
+.nav-menu-search button.icon{
+	border-radius: 5px;
+    height: 36px;
+    position: relative;
+    top: .5px;
+    left: -45px;
+    line-height: 36px;
+    width: 40px;
+    color: #FFF;
+    font-size: 10pt;
+    -webkit-transition: all .55s ease;
+    -moz-transition: all .55s ease;
+    -ms-transition: all .55s ease;
+    -o-transition: all .55s ease;
+    transition: all .55s ease;
+    background-color: #08CAE8;
+}
+.nav-menu-search button.icon:hover,
+.nav-menu-search button.icon:focus {
+	background-color: #212121;
+}
+.page-template-page-contact .has-padding {
+	padding-top: 0;
+}
+#team-block .col-lg-3:nth-child(5n) {
+	clear: left;
+}
+#appointment-form input[type="text"]:focus,
+#appointment-form textarea:focus {
+	border-color: #999;
+}
+#blog #related-posts .post:hover a .inner .date {
+	color: #fff;
+}
+#header #logo a.logo-text {
+	font-size: 30px;
+    font-weight: bold;
+}

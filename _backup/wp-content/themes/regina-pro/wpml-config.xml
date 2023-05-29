@@ -1,0 +1,22 @@
+<wpml-config>
+    <admin-texts>
+		<key name='theme_mods_regina-pro'>
+			<key name='regina_book_appointment_text' />
+			<key name='regina_homepage_section_title' />
+			<key name='regina_homepage_section_description' />
+			<key name='regina_homepage_section_button_text' />
+			<key name='regina_homepage_section_button_url' />
+			<key name='regina_blog_archive_header_description' />
+			<key name='regina_blog_search_header_description' />
+			<key name='regina_top_telephone_number' />
+			<key name='regina_top_fax_number' />
+			<key name='regina_top_email' />
+			<key name='regina_jobs_email' />
+			<key name='regina_adress' />
+			<key name='regina_footer_copyright' />
+			<key name='regina_minimal_text' />
+			<key name='regina_services_contact_title' />
+			<key name='regina_services_contact_subtitle' />
+		</key>
+    </admin-texts>
+</wpml-config>

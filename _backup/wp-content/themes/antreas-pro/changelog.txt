@@ -1,0 +1,13 @@
+Version 1.0.3
+Customizer JS error fix
+Undefined variable $shortcode_tag fix
+Removed Simple Author Box from recommended plugins
+Update FontAwesome
+Security fixes regarding AJAX nopriv action
+
+Version 1.0.1
+Added compatibility with Kali Forms plugin
+Improved compatibility with keyboard navigation
+
+Version 1.0.0
+Theme release!

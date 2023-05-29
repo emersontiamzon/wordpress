@@ -1,0 +1,16 @@
+i.mce-i-macho_row:before {
+    font-family: "dashicons";
+    content: "\f460";
+}
+
+i.mce-i-macho_slider:before {
+    font-family: "dashicons";
+    content: "\f181";
+    font-size: 24px;
+}
+
+i.mce-i-macho_button:before {
+    font-family: 'dashicons';
+    content: "\f309";
+}
+

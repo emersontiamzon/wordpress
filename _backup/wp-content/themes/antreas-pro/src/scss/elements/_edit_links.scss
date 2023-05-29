@@ -1,0 +1,24 @@
+.post-edit-link,
+.post-edit-link:link,
+.post-edit-link:visited {
+    display: inline-block;
+    font-family: Verdana, Arial;
+    font-size: 10px;
+    line-height: 1;
+    background: #f90;
+    color: #fff !important;
+    padding: 3px 4px;
+    border-radius: 2px;
+    text-shadow: none;
+    -moz-transition: 0.2s all;
+    -webkit-transition: 0.2s all;
+    transition: 0.2s all;
+}
+
+.post-edit-link:hover,
+.post-edit-link:focus {
+    background: #fa1;
+    color: #fff;
+    text-decoration: none !important;
+    text-shadow: 0 0 3px #fff;
+}

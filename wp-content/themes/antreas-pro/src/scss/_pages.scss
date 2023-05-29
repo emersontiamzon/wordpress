@@ -1,0 +1,67 @@
+/* SEARCH PAGE */
+.search .search-result {
+    margin: 0 0 30px;
+}
+
+.search .search-form {
+    margin: 0 0 30px;
+}
+
+.search .search-title {
+    margin: 0;
+}
+
+.search .search-byline {
+    font-size: 0.8em;
+}
+
+.search .search-content p {
+    margin: 0;
+}
+
+/* 404 PAGE */
+.notfound {
+    padding: 100px 0;
+    margin: 0 auto;
+    max-width: 750px;
+}
+
+.notfound-image {
+    font-size: 200px;
+    font-weight: bold;
+    text-align: right;
+    line-height: 0.7;
+}
+
+.notfound-title {
+}
+
+.notfound-content {
+    font-size: 1.4em;
+    font-weight: 300;
+}
+
+/* SPECIAL PAGE LAYOUTS */
+.header-minimal .topbar,
+.header-minimal .header-content,
+.header-minimal .menu,
+.title-minimal .breadcrumb,
+.footer-minimal .subfooter,
+.footer-minimal .footermenu,
+.header-none .topbar,
+.header-none .menu,
+.header-none .header,
+.footer-none .footer,
+.footer-none .subfooter {
+    display: none;
+}
+
+/* PORTFOLIO SINGLE */
+.single-cpo_portfolio .single-image {
+	margin-bottom: 20px;
+}
+
+/* PORTFOLIO CATEGORY PAGE */
+.tax-cpo_portfolio_category .portfolio {
+	margin-bottom: 20px;
+}

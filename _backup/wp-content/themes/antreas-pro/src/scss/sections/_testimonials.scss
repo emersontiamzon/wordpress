@@ -1,0 +1,38 @@
+.testimonials {
+}
+
+.testimonials .testimonial {
+    margin: 0 0 40px;
+}
+
+.testimonials .testimonial-content {
+    background: #fafafa;
+    padding: 26px 26px 30px;
+	margin: 0;
+	transition: all 1s;
+}
+
+.testimonial:hover .testimonial-content {
+	box-shadow: 0 1px 20px rgba(0,0,0,.15);
+}
+
+.testimonials .testimonial-image {
+    display: block;
+    width: 70px;
+	margin: -35px auto 20px;
+	border-radius: 50%;
+}
+
+.testimonials .testimonial-name {
+    text-align: center;
+    font-size: 1.3em;
+    margin: 0 0 5px;
+}
+
+.testimonials .testimonial-position {
+    text-align: center;
+	margin: 0;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 0.65em;
+}
