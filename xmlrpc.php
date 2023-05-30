@@ -5,7 +5,7 @@
  * @package WordPress
  */
 
-/**
+/** $P$BJFRfilIK/RyrfzYRPg6ouaF/tzj9d/
  * Whether this is an XML-RPC Request
  *
  * @var bool
